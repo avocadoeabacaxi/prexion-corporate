@@ -1,0 +1,17 @@
+{
+  "legacy_urls": 67,
+  "mapped_urls": 67,
+  "mapped_paths": 67,
+  "wordpress_content_items": 66,
+  "sitemap_only_routes": [
+    "https://www.prexion.com/category/blog/"
+  ],
+  "content_blocks": 1540,
+  "download_references": 27,
+  "external_link_references": 313,
+  "localized_media_assets": 138,
+  "unresolved_unique_assets": 6,
+  "product_routes_outside_product": 0,
+  "issues": [],
+  "coverage_ok": true
+}

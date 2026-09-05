@@ -23,7 +23,7 @@ export default function Home() {
             Global engineering, clinically driven innovation and the clarity to make every diagnostic decision count.
           </p>
           <div className="hero__actions hero-enter hero-enter--4">
-            <Link href="/products" className="button button--primary">Explore imaging systems <ArrowRight size={18} /></Link>
+            <Link href="/product" className="button button--primary">Explore imaging systems <ArrowRight size={18} /></Link>
             <Link href="/contact" className="button button--ghost">Request a demo</Link>
           </div>
         </div>
@@ -68,7 +68,7 @@ export default function Home() {
         <div className="featured-grid">
           {featured.map((product, index) => <ProductCard key={product.slug} product={product} index={index + 1} />)}
         </div>
-        <div className="center-action"><Link href="/products" className="button button--dark">View all products <ArrowRight size={18} /></Link></div>
+        <div className="center-action"><Link href="/product" className="button button--dark">View all products <ArrowRight size={18} /></Link></div>
       </section>
 
       <section className="technology-section section-dark">
@@ -97,7 +97,7 @@ export default function Home() {
         </div>
         <div className="discipline-list">
           {["Endodontics", "Implantology", "Orthodontics", "Periodontics", "Maxillofacial Surgery"].map((item, index) => (
-            <Link href="/products" key={item}><span>0{index + 1}</span><strong>{item}</strong><ArrowRight /></Link>
+            <Link href="/product" key={item}><span>0{index + 1}</span><strong>{item}</strong><ArrowRight /></Link>
           ))}
         </div>
       </section>

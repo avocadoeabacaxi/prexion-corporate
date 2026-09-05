@@ -62,3 +62,27 @@ Formulário estático com validação no cliente e confirmação visual. Como o 
 ## Regras de conteúdo
 
 Todo texto será em inglês, com frases curtas e tom confiante. Especificações técnicas serão usadas somente quando verificadas. Não serão inventados prêmios, avaliações, depoimentos ou números de mercado. Depoimentos existentes não serão reproduzidos no primeiro lançamento para evitar depender de validação adicional.
+
+## Expansão para migração integral
+
+A auditoria integral identificou 67 URLs públicas. O novo site passará a operar com duas camadas complementares: **páginas canônicas modernas**, que reorganizam o conteúdo para navegação atual, e **páginas legadas preservadas no novo design**, que mantêm o conteúdo específico de cada URL antiga e apontam para o destino canônico correspondente.
+
+| Grupo | Rotas canônicas | Tratamento das URLs antigas |
+| --- | --- | --- |
+| Marca | `/about`, `/careers`, `/careers/apply` | História, manifesto, vagas e candidatura preservados em páginas próprias ou no template legado. |
+| Produtos | `/product`, `/product/:slug` | Todo o catálogo e toda importação de produto passam pela rota canônica singular `/product`; `/products` existe apenas como compatibilidade e redireciona para ela. Produtos atuais têm páginas detalhadas; produtos legados, campanhas e comparativos permanecem acessíveis em suas rotas antigas. |
+| Aplicações | `/applications-by-specialty` | Endodontia, implantodontia, prótese e periodontia ganham uma página editorial dedicada. |
+| Educação e suporte | `/support`, `/support/remote`, `/support/training` | Suporte remoto, vídeos e compromisso educacional preservados em rotas próprias. |
+| Recursos | `/resources`, `/roi-calculator` | E-books, brochures, downloads e cálculo de retorno ficam centralizados, sem remover as landing pages de origem. |
+| Comercial | `/contact`, `/product-specialists`, `/distributors` | Demonstração, representantes, distribuidores e contatos mantêm caminhos diretos. |
+| Notícias e eventos | `/news`, `/events` | Eventos e publicações são consolidados em hubs, mantendo cada artigo em sua URL antiga. |
+| Legal | `/privacy-policy`, `/accessibility-statement` | Conteúdo legal integral em páginas próprias. |
+| Índice completo | `/site-map` | Busca e listagem de todas as URLs migradas, agrupadas por tipo e com indicação de destino canônico. |
+
+## Modelo de página legada preservada
+
+Cada URL sem uma página canônica específica será renderizada por um template editorial comum. Esse template exibirá o título original, classificação, origem, imagens disponíveis, blocos de conteúdo deduplicados, links, downloads e chamadas para ação. Quando houver consolidação, uma faixa indicará a página canônica correspondente sem ocultar o conteúdo histórico.
+
+## Modelo de governança do conteúdo
+
+O inventário bruto e o mapa de migração ficam separados da interface em arquivos estruturados. Isso permite atualização centralizada de textos, rotas, downloads e metadados sem editar componentes visuais. A implementação utiliza `legacyPages.ts` como registro completo de conteúdo e `migration_map.csv` como matriz de controle e conferência.

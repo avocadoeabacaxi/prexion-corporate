@@ -10,14 +10,14 @@ export default function ProductDetail({ params }: { params: { slug: string } }) 
   const product = getProduct(params.slug);
 
   if (!product) {
-    return <main className="empty-state"><p className="eyebrow">Product not found</p><h1>The requested system is not available.</h1><Link href="/products" className="button button--dark"><ArrowLeft size={18} /> Back to products</Link></main>;
+    return <main className="empty-state"><p className="eyebrow">Product not found</p><h1>The requested system is not available.</h1><Link href="/product" className="button button--dark"><ArrowLeft size={18} /> Back to products</Link></main>;
   }
 
   return (
     <main className="inner-page product-detail-page">
       <section className="product-hero">
         <div className="product-hero__copy">
-          <Link href="/products" className="back-link"><ArrowLeft size={16} /> All products</Link>
+          <Link href="/product" className="back-link"><ArrowLeft size={16} /> All products</Link>
           <p className="eyebrow eyebrow--light">{product.family} / {product.modality}</p>
           <h1>{product.name}</h1>
           <p>{product.summary}</p>

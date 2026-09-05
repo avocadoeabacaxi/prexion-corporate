@@ -1,0 +1,22 @@
+{
+  "sitemap_urls": 67,
+  "api_published_items": 66,
+  "api_urls": 66,
+  "all_unique_urls": 67,
+  "api_only_urls": 0,
+  "sitemap_only_urls": 1,
+  "content_type_counts": {
+    "application": 1,
+    "careers": 2,
+    "event": 4,
+    "institutional": 2,
+    "landing-page": 8,
+    "legal": 2,
+    "product": 21,
+    "resource": 8,
+    "sales": 5,
+    "support": 3,
+    "thank-you": 9,
+    "tool": 1
+  }
+}

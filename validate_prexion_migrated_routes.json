@@ -1,0 +1,808 @@
+{
+  "results": [
+    {
+      "input": "/",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Nenhum",
+        "loaded": true,
+        "path": "/",
+        "visible_title": "PreXion — Advanced Dental Imaging"
+      },
+      "error": ""
+    },
+    {
+      "input": "/aae-annual-meteting-2026-salt-lake-city-ut",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Nenhum",
+        "loaded": true,
+        "path": "/aae-annual-meteting-2026-salt-lake-city-ut",
+        "visible_title": "AAE Annual Meteting 2026 – Salt Lake City – UT"
+      },
+      "error": ""
+    },
+    {
+      "input": "/accessibility-statement",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Nenhum",
+        "loaded": true,
+        "path": "/accessibility-statement",
+        "visible_title": "Accessibility Statement"
+      },
+      "error": ""
+    },
+    {
+      "input": "/aeedc-dubai-event",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Nenhum",
+        "loaded": true,
+        "path": "/aeedc-dubai-event",
+        "visible_title": "AEEDC Dubai 2026"
+      },
+      "error": ""
+    },
+    {
+      "input": "/all-reps-subscribe",
+      "output": {
+        "broken_media": "",
+        "content_preserved": "",
+        "issue": "Página em branco",
+        "loaded": true,
+        "path": "/all-reps-subscribe",
+        "visible_title": "PreXion — Advanced Dental Imaging"
+      },
+      "error": ""
+    },
+    {
+      "input": "/applications-by-specialty",
+      "output": {
+        "broken_media": "",
+        "content_preserved": "",
+        "issue": "Erro de carregamento: a página não renderizou nenhum conteúdo (apenas tela em branco e Too many requests anteriormente).",
+        "loaded": "",
+        "path": "/applications-by-specialty",
+        "visible_title": "PreXion — Advanced Dental Imaging"
+      },
+      "error": ""
+    },
+    {
+      "input": "/apply-job",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Nenhum",
+        "loaded": true,
+        "path": "/apply-job",
+        "visible_title": "Apply for this Job"
+      },
+      "error": ""
+    },
+    {
+      "input": "/careers-at-prexion",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Nenhum",
+        "loaded": true,
+        "path": "/careers-at-prexion",
+        "visible_title": "Careers at PreXion"
+      },
+      "error": ""
+    },
+    {
+      "input": "/catapult",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Nenhum",
+        "loaded": true,
+        "path": "/catapult",
+        "visible_title": "Catapult (LP)"
+      },
+      "error": ""
+    },
+    {
+      "input": "/category/blog",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Nenhum",
+        "loaded": true,
+        "path": "/category/blog",
+        "visible_title": "Blog"
+      },
+      "error": ""
+    },
+    {
+      "input": "/cbct-scanner-options",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Exibe raw markdown no header",
+        "loaded": true,
+        "path": "/cbct-scanner-options",
+        "visible_title": "Combo (LP)"
+      },
+      "error": ""
+    },
+    {
+      "input": "/chicago-mindwinter-dental",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Nenhum",
+        "loaded": true,
+        "path": "/chicago-mindwinter-dental",
+        "visible_title": "Chicago Mindwinter"
+      },
+      "error": ""
+    },
+    {
+      "input": "/contact",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Nenhum",
+        "loaded": true,
+        "path": "/contact",
+        "visible_title": "Bring diagnostic clarity into your practice."
+      },
+      "error": ""
+    },
+    {
+      "input": "/discover-the-evolve-2d-pan",
+      "output": {
+        "broken_media": "",
+        "content_preserved": "",
+        "issue": "Página em branco, sem conteúdo visível.",
+        "loaded": true,
+        "path": "/discover-the-evolve-2d-pan",
+        "visible_title": "PreXion — Advanced Dental Imaging"
+      },
+      "error": ""
+    },
+    {
+      "input": "/discover-the-expedition-cbct-scanner",
+      "output": {
+        "broken_media": "",
+        "content_preserved": "",
+        "issue": "Erro 429 Too Many Requests",
+        "loaded": "",
+        "path": "/discover-the-expedition-cbct-scanner",
+        "visible_title": "Too many requests. Please try again later."
+      },
+      "error": ""
+    },
+    {
+      "input": "/discover-the-explorer-ex-cbct-scanner",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Nenhum",
+        "loaded": true,
+        "path": "/discover-the-explorer-ex-cbct-scanner",
+        "visible_title": "Explorer EX CBCT Scanner (LP)"
+      },
+      "error": ""
+    },
+    {
+      "input": "/discover-the-prexion-3d-intraoral-sensor",
+      "output": {
+        "broken_media": "",
+        "content_preserved": "",
+        "issue": "Página em branco (apenas React root div sem conteúdo renderizado)",
+        "loaded": true,
+        "path": "/discover-the-prexion-3d-intraoral-sensor",
+        "visible_title": "PreXion — Advanced Dental Imaging"
+      },
+      "error": ""
+    },
+    {
+      "input": "/distributor-locations",
+      "output": {
+        "broken_media": "",
+        "content_preserved": "",
+        "issue": "Too many requests. Please try again later.",
+        "loaded": "",
+        "path": "/distributor-locations",
+        "visible_title": ""
+      },
+      "error": ""
+    },
+    {
+      "input": "/download-be-more-profitable-more-quickly",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Nenhum",
+        "loaded": true,
+        "path": "/download-be-more-profitable-more-quickly",
+        "visible_title": "Download – Be More Profitable More Quickly"
+      },
+      "error": ""
+    },
+    {
+      "input": "/download-dental-professionals-insights-on-precision-imaging-excellence",
+      "output": {
+        "broken_media": "",
+        "content_preserved": "",
+        "issue": "Too many requests",
+        "loaded": "",
+        "path": "/download-dental-professionals-insights-on-precision-imaging-excellence",
+        "visible_title": ""
+      },
+      "error": ""
+    },
+    {
+      "input": "/download-ebook-library",
+      "output": {
+        "broken_media": "",
+        "content_preserved": "",
+        "issue": "Erro 429 Too Many Requests",
+        "loaded": "",
+        "path": "/download-ebook-library",
+        "visible_title": "Too many requests. Please try again later."
+      },
+      "error": ""
+    },
+    {
+      "input": "/download-how-your-peers-earn-roi-from-3d-cbct-scan-imaging-technology",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Nenhum",
+        "loaded": true,
+        "path": "/download-how-your-peers-earn-roi-from-3d-cbct-scan-imaging-technology",
+        "visible_title": "Download – How Your Peers Earn ROI from 3D CBCT Scan Imaging Technology"
+      },
+      "error": ""
+    },
+    {
+      "input": "/download-mitigating-practice-liability-exposure-with-precision-treatment-planning-and-diagnoses",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Nenhum",
+        "loaded": true,
+        "path": "/download-mitigating-practice-liability-exposure-with-precision-treatment-planning-and-diagnoses",
+        "visible_title": "Download – Mitigating Practice Liability Exposure with Precision Treatment Planning and Diagnoses"
+      },
+      "error": ""
+    },
+    {
+      "input": "/download-overcoming-rising-costs-and-economic-challenges-in-dentistry",
+      "output": {
+        "broken_media": "",
+        "content_preserved": "",
+        "issue": "Página em branco (apenas barra de preview)",
+        "loaded": true,
+        "path": "/download-overcoming-rising-costs-and-economic-challenges-in-dentistry",
+        "visible_title": "PreXion — Advanced Dental Imaging"
+      },
+      "error": ""
+    },
+    {
+      "input": "/downloadable-assets",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Nenhum",
+        "loaded": true,
+        "path": "/downloadable-assets",
+        "visible_title": "Downloadable Assets"
+      },
+      "error": ""
+    },
+    {
+      "input": "/education-and-support",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Nenhum",
+        "loaded": true,
+        "path": "/education-and-support",
+        "visible_title": "Education \u0026 Support"
+      },
+      "error": ""
+    },
+    {
+      "input": "/evolve-2d-pan",
+      "output": {
+        "broken_media": "",
+        "content_preserved": "",
+        "issue": "Página em branco, sem conteúdo visível.",
+        "loaded": true,
+        "path": "/evolve-2d-pan",
+        "visible_title": "PreXion — Advanced Dental Imaging"
+      },
+      "error": ""
+    },
+    {
+      "input": "/evolve-scan-intraoral-scanner",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Nenhum",
+        "loaded": true,
+        "path": "/evolve-scan-intraoral-scanner",
+        "visible_title": "Evolve Scan"
+      },
+      "error": ""
+    },
+    {
+      "input": "/evolve-x-ray-hand-held-dental-x-rays",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Conteúdo duplicado e menção a Eagle X-ray em vez de Evolve X-Ray. Footer duplicado.",
+        "loaded": true,
+        "path": "/evolve-x-ray-hand-held-dental-x-rays",
+        "visible_title": "Evolve X-Ray: Hand Held Dental X-Rays"
+      },
+      "error": ""
+    },
+    {
+      "input": "/explorer-ex-cbct-scanner-complimentary-demo",
+      "output": {
+        "broken_media": "",
+        "content_preserved": "",
+        "issue": "Página em branco (React renderizou apenas tela vazia com banner de preview)",
+        "loaded": true,
+        "path": "/explorer-ex-cbct-scanner-complimentary-demo",
+        "visible_title": "PreXion — Advanced Dental Imaging"
+      },
+      "error": ""
+    },
+    {
+      "input": "/explorer-ex-cbct-scanner-free-download",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Nenhum",
+        "loaded": true,
+        "path": "/explorer-ex-cbct-scanner-free-download",
+        "visible_title": "Explorer EX CBCT Scanner – Download Brochure (LP)"
+      },
+      "error": ""
+    },
+    {
+      "input": "/explorer-pro-2",
+      "output": {
+        "broken_media": "",
+        "content_preserved": "",
+        "issue": "Erro 429: Too many requests",
+        "loaded": "",
+        "path": "/explorer-pro-2",
+        "visible_title": "Nenhum"
+      },
+      "error": ""
+    },
+    {
+      "input": "/imaging-products",
+      "output": {
+        "broken_media": "",
+        "content_preserved": "",
+        "issue": "Erro 429 Too Many Requests",
+        "loaded": "",
+        "path": "/imaging-products",
+        "visible_title": "Nenhum"
+      },
+      "error": ""
+    },
+    {
+      "input": "/leading-imaging-solutions",
+      "output": {
+        "broken_media": "",
+        "content_preserved": "",
+        "issue": "Erro de Too many requests",
+        "loaded": "",
+        "path": "/leading-imaging-solutions",
+        "visible_title": ""
+      },
+      "error": ""
+    },
+    {
+      "input": "/news-2",
+      "output": {
+        "broken_media": "",
+        "content_preserved": "",
+        "issue": "Erro de limite de requisições (Too many requests)",
+        "loaded": "",
+        "path": "/news-2",
+        "visible_title": "Nenhum"
+      },
+      "error": ""
+    },
+    {
+      "input": "/prexion-3d-evolve",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Duplicação de texto no conteúdo",
+        "loaded": true,
+        "path": "/prexion-3d-evolve",
+        "visible_title": "PreXion 3D Evolve (SFOV)"
+      },
+      "error": ""
+    },
+    {
+      "input": "/prexion-3d-excelsior-cbct-scanner",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Nenhum",
+        "loaded": true,
+        "path": "/prexion-3d-excelsior-cbct-scanner",
+        "visible_title": "Excelsior CBCT Scanner"
+      },
+      "error": ""
+    },
+    {
+      "input": "/prexion-3d-excelsior",
+      "output": {
+        "broken_media": "",
+        "content_preserved": "",
+        "issue": "Erro: Too many requests. Please try again later.",
+        "loaded": true,
+        "path": "/prexion-3d-excelsior",
+        "visible_title": "Nenhum"
+      },
+      "error": ""
+    },
+    {
+      "input": "/prexion-3d-expedition",
+      "output": {
+        "broken_media": "",
+        "content_preserved": "",
+        "issue": "Página em branco, carrega apenas a shell do React sem renderizar conteúdo nem erro 404.",
+        "loaded": true,
+        "path": "/prexion-3d-expedition",
+        "visible_title": "PreXion — Advanced Dental Imaging"
+      },
+      "error": ""
+    },
+    {
+      "input": "/prexion-3d-explorer-ex",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Nenhum",
+        "loaded": true,
+        "path": "/prexion-3d-explorer-ex",
+        "visible_title": "PreXion — Advanced Dental Imaging"
+      },
+      "error": ""
+    },
+    {
+      "input": "/prexion-3d-explorer-pro",
+      "output": {
+        "broken_media": "",
+        "content_preserved": "",
+        "issue": "A página carregou em branco, sem conteúdo visível no corpo, apenas com a tag title preenchida.",
+        "loaded": true,
+        "path": "/prexion-3d-explorer-pro",
+        "visible_title": "PreXion — Advanced Dental Imaging"
+      },
+      "error": ""
+    },
+    {
+      "input": "/prexion-3d-intraoral-sensor",
+      "output": {
+        "broken_media": "",
+        "content_preserved": "",
+        "issue": "Página em branco, ausência de conteúdo",
+        "loaded": true,
+        "path": "/prexion-3d-intraoral-sensor",
+        "visible_title": "PreXion — Advanced Dental Imaging"
+      },
+      "error": ""
+    },
+    {
+      "input": "/prexion-care",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Nenhum",
+        "loaded": true,
+        "path": "/prexion-care",
+        "visible_title": "Prexion Care"
+      },
+      "error": ""
+    },
+    {
+      "input": "/prexion-excelsior-endo",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Nenhum",
+        "loaded": true,
+        "path": "/prexion-excelsior-endo",
+        "visible_title": "PreXion — Advanced Dental Imaging"
+      },
+      "error": ""
+    },
+    {
+      "input": "/prexion-excelsior-max-lfov",
+      "output": {
+        "broken_media": "",
+        "content_preserved": "",
+        "issue": "Too many requests",
+        "loaded": "",
+        "path": "/prexion-excelsior-max-lfov",
+        "visible_title": ""
+      },
+      "error": ""
+    },
+    {
+      "input": "/prexion-excelsior-mid",
+      "output": {
+        "broken_media": "",
+        "content_preserved": "",
+        "issue": "A página carregou, mas exibe mensagem de erro 'Too many requests. Please try again later.' em vez do conteúdo esperado.",
+        "loaded": true,
+        "path": "/prexion-excelsior-mid",
+        "visible_title": "Too many requests. Please try again later."
+      },
+      "error": ""
+    },
+    {
+      "input": "/privacy-policy",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Nenhum",
+        "loaded": true,
+        "path": "/privacy-policy",
+        "visible_title": "Privacy Policy"
+      },
+      "error": ""
+    },
+    {
+      "input": "/product-specialists",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Nenhum",
+        "loaded": true,
+        "path": "/product-specialists",
+        "visible_title": "Find a Product Specialist"
+      },
+      "error": ""
+    },
+    {
+      "input": "/remote-support",
+      "output": {
+        "broken_media": "",
+        "content_preserved": "",
+        "issue": "Página em branco, sem conteúdo substantivo.",
+        "loaded": true,
+        "path": "/remote-support",
+        "visible_title": "PreXion — Advanced Dental Imaging"
+      },
+      "error": ""
+    },
+    {
+      "input": "/request-a-demo",
+      "output": {
+        "broken_media": "",
+        "content_preserved": "",
+        "issue": "Erro de limite de requisições (Too many requests)",
+        "loaded": "",
+        "path": "/request-a-demo",
+        "visible_title": ""
+      },
+      "error": ""
+    },
+    {
+      "input": "/roi-calculator",
+      "output": {
+        "broken_media": "",
+        "content_preserved": "",
+        "issue": "Erro 429: Too many requests (PROXY_RATE_LIMITED)",
+        "loaded": "",
+        "path": "/roi-calculator",
+        "visible_title": "Too many requests"
+      },
+      "error": ""
+    },
+    {
+      "input": "/sales-info",
+      "output": {
+        "broken_media": "",
+        "content_preserved": "",
+        "issue": "Página em branco, sem conteúdo substantivo ou encaminhamento.",
+        "loaded": true,
+        "path": "/sales-info",
+        "visible_title": "PreXion — Advanced Dental Imaging"
+      },
+      "error": ""
+    },
+    {
+      "input": "/sample-page",
+      "output": {
+        "broken_media": "",
+        "content_preserved": "",
+        "issue": "Too many requests",
+        "loaded": true,
+        "path": "/sample-page",
+        "visible_title": ""
+      },
+      "error": ""
+    },
+    {
+      "input": "/saudi-international-dental-conference",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Nenhum",
+        "loaded": true,
+        "path": "/saudi-international-dental-conference",
+        "visible_title": "Saudi International Dental Conference (SIDC)"
+      },
+      "error": ""
+    },
+    {
+      "input": "/subscription-success",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Nenhum",
+        "loaded": true,
+        "path": "/subscription-success",
+        "visible_title": "Subscription Success"
+      },
+      "error": ""
+    },
+    {
+      "input": "/success-be-more-profitable-more-quickly",
+      "output": {
+        "broken_media": "",
+        "content_preserved": "",
+        "issue": "Página quase vazia, apenas texto genérico do site, sem conteúdo específico da rota",
+        "loaded": true,
+        "path": "/success-be-more-profitable-more-quickly",
+        "visible_title": "PreXion — Advanced Dental Imaging"
+      },
+      "error": ""
+    },
+    {
+      "input": "/success-dental-professionals-insights-on-precision-imaging-excellence",
+      "output": {
+        "broken_media": "",
+        "content_preserved": "",
+        "issue": "Erro de limite de taxa (Too many requests)",
+        "loaded": "",
+        "path": "/success-dental-professionals-insights-on-precision-imaging-excellence",
+        "visible_title": "Nenhum"
+      },
+      "error": ""
+    },
+    {
+      "input": "/success-explorer-ex-cbct-scanner-free-download",
+      "output": {
+        "broken_media": "",
+        "content_preserved": "",
+        "issue": "Página em branco, sem conteúdo renderizado.",
+        "loaded": true,
+        "path": "/success-explorer-ex-cbct-scanner-free-download",
+        "visible_title": "PreXion — Advanced Dental Imaging"
+      },
+      "error": ""
+    },
+    {
+      "input": "/success-how-your-peers-earn-roi-from-3d-cbct-scan-imaging-technology",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Nenhum",
+        "loaded": true,
+        "path": "/success-how-your-peers-earn-roi-from-3d-cbct-scan-imaging-technology",
+        "visible_title": "Success – How Your Peers Earn ROI from 3D CBCT Scan Imaging Technology"
+      },
+      "error": ""
+    },
+    {
+      "input": "/success-mitigating-practice-liability-exposure-with-precision-treatment-planning-and-diagnoses",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Nenhum",
+        "loaded": true,
+        "path": "/success-mitigating-practice-liability-exposure-with-precision-treatment-planning-and-diagnoses",
+        "visible_title": "PreXion — Advanced Dental Imaging"
+      },
+      "error": ""
+    },
+    {
+      "input": "/success-overcoming-rising-costs-and-economic-challenges-in-dentistry",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Nenhum",
+        "loaded": true,
+        "path": "/success-overcoming-rising-costs-and-economic-challenges-in-dentistry",
+        "visible_title": "PreXion — Advanced Dental Imaging"
+      },
+      "error": ""
+    },
+    {
+      "input": "/thank-you-for-your-interest-in-prexion-3d-cbct",
+      "output": {
+        "broken_media": "",
+        "content_preserved": "",
+        "issue": "Página em branco, ausência de conteúdo visível",
+        "loaded": true,
+        "path": "/thank-you-for-your-interest-in-prexion-3d-cbct",
+        "visible_title": "PreXion — Advanced Dental Imaging"
+      },
+      "error": ""
+    },
+    {
+      "input": "/thank-you",
+      "output": {
+        "broken_media": "",
+        "content_preserved": "",
+        "issue": "Página em branco, sem conteúdo substantivo.",
+        "loaded": true,
+        "path": "/thank-you",
+        "visible_title": "PreXion — Advanced Dental Imaging"
+      },
+      "error": ""
+    },
+    {
+      "input": "/the-art-and-science-of-dentistry-2026-anaheim-ca",
+      "output": {
+        "broken_media": "",
+        "content_preserved": "",
+        "issue": "Too many requests",
+        "loaded": true,
+        "path": "/the-art-and-science-of-dentistry-2026-anaheim-ca",
+        "visible_title": ""
+      },
+      "error": ""
+    },
+    {
+      "input": "/training-videos",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Nenhum",
+        "loaded": true,
+        "path": "/training-videos",
+        "visible_title": "Training Videos"
+      },
+      "error": ""
+    },
+    {
+      "input": "/upcoming_events",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Nenhum",
+        "loaded": true,
+        "path": "/upcoming_events",
+        "visible_title": "Upcoming Events"
+      },
+      "error": ""
+    },
+    {
+      "input": "/why-prexion",
+      "output": {
+        "broken_media": "",
+        "content_preserved": true,
+        "issue": "Nenhum",
+        "loaded": true,
+        "path": "/why-prexion",
+        "visible_title": "Why Prexion?"
+      },
+      "error": ""
+    }
+  ]
+}

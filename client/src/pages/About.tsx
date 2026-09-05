@@ -43,7 +43,7 @@ export default function About() {
         <p className="eyebrow">Our guiding principle</p>
         <h2>Making IT <em>Visible.</em></h2>
         <div><p>Visibility is more than resolution. It is the ability to reveal clinically relevant information, connect it to an efficient workflow and support the people who use it.</p><p>That principle shapes our imaging systems, our software, our education and every interaction with a PreXion customer.</p></div>
-        <Link href="/products" className="button button--dark">Explore our technology <ArrowRight size={18} /></Link>
+        <Link href="/product" className="button button--dark">Explore our technology <ArrowRight size={18} /></Link>
       </section>
     </main>
   );

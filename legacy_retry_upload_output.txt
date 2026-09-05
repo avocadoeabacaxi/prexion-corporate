@@ -1,0 +1,80 @@
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/056f76f88b06-UHD.png (size: 119319 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/056f76f88b06-UHD_8ebeb901.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/1e0d7540a2c3-PreXion-Expedition-Model-Brochure.pdf (size: 16730952 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/1e0d7540a2c3-PreXion-Expedition-Model-Brochure_43778941.pdf
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/73eed30ae938-PreXion-Expedition-Model-Brochure_FINAL_1223.pdf (size: 16730952 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/73eed30ae938-PreXion-Expedition-Model-Brochure_FINAL_1223_8619471b.pdf
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/9dbbe26071e9-PreXion_Expedition_with_ceph.png (size: 299149 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/9dbbe26071e9-PreXion_Expedition_with_ceph_107aeb5f.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/e11216173a71-Prexion-Dental-Professionals-Insights-onPrecision-Imaging-Excellence-eBook-Cover.jpg (size: 690081 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/e11216173a71-Prexion-Dental-Professionals-Insights-onPrecision-Imaging-Excellence-eBook-Cover_9d7f147d.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/5e4d681628b4-Prexion-Dental-Professionals-Insights-onPrecision-Imaging-Excellence-eBook.pdf (size: 4122599 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/5e4d681628b4-Prexion-Dental-Professionals-Insights-onPrecision-Imaging-Excellence-eBook_1bf0d296.pdf
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/0c013d67418d-PRE-Q4-eBook.jpg (size: 491923 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/0c013d67418d-PRE-Q4-eBook_e57dad13.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/fdf7cb6bd84c-PreXion-eBook-HowYourPeersEarnROIfrom3DCBCTScanImagingTechnology.pdf (size: 3605907 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/fdf7cb6bd84c-PreXion-eBook-HowYourPeersEarnROIfrom3DCBCTScanImagingTechnology_f9ce1346.pdf
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/c48b34ce4fd1-19873-EXCELSIOR-ENDO-pose-03.png (size: 897972 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/c48b34ce4fd1-19873-EXCELSIOR-ENDO-pose-03_f725f485.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/14cbfd702276-Imagem-site-prexion1000-x-1000-px.png (size: 600921 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/14cbfd702276-Imagem-site-prexion1000-x-1000-px_193b0715.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/ebe36ba14a0f-NEW-5-adaptive-filters.png (size: 1549379 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/ebe36ba14a0f-NEW-5-adaptive-filters_5cf1cdce.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/fec4fba1bb7a-NEW-Enhanced-Ortho.jpg (size: 383198 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/fec4fba1bb7a-NEW-Enhanced-Ortho_9630d7c6.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/7c49d335d9b0-NEW-Lateral-Ceph.jpg (size: 412996 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/7c49d335d9b0-NEW-Lateral-Ceph_a22dbc41.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/dd0ef149cb98-NEW-Panoramic.jpg (size: 360888 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/dd0ef149cb98-NEW-Panoramic_189f74a7.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/37044d32d1f8-eagle-scan-behind.png (size: 266179 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/37044d32d1f8-eagle-scan-behind_b7078065.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/2e00ca82c87e-eagle-scan-modoHD.jpg (size: 94859 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/2e00ca82c87e-eagle-scan-modoHD_5508ae50.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/466e52dc650d-evolve-xray11.png (size: 1149425 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/466e52dc650d-evolve-xray11_432d0533.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/eb2116be8a48-evolve-xray22.png (size: 1197145 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/eb2116be8a48-evolve-xray22_c9cc6e87.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/f2850c0247c6-evolve-xray33.png (size: 930821 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/f2850c0247c6-evolve-xray33_1f0a843d.png
+
+========== Upload Summary ==========
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/056f76f88b06-UHD.png -> /manus-storage/056f76f88b06-UHD_8ebeb901.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/1e0d7540a2c3-PreXion-Expedition-Model-Brochure.pdf -> /manus-storage/1e0d7540a2c3-PreXion-Expedition-Model-Brochure_43778941.pdf
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/73eed30ae938-PreXion-Expedition-Model-Brochure_FINAL_1223.pdf -> /manus-storage/73eed30ae938-PreXion-Expedition-Model-Brochure_FINAL_1223_8619471b.pdf
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/9dbbe26071e9-PreXion_Expedition_with_ceph.png -> /manus-storage/9dbbe26071e9-PreXion_Expedition_with_ceph_107aeb5f.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/e11216173a71-Prexion-Dental-Professionals-Insights-onPrecision-Imaging-Excellence-eBook-Cover.jpg -> /manus-storage/e11216173a71-Prexion-Dental-Professionals-Insights-onPrecision-Imaging-Excellence-eBook-Cover_9d7f147d.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/5e4d681628b4-Prexion-Dental-Professionals-Insights-onPrecision-Imaging-Excellence-eBook.pdf -> /manus-storage/5e4d681628b4-Prexion-Dental-Professionals-Insights-onPrecision-Imaging-Excellence-eBook_1bf0d296.pdf
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/0c013d67418d-PRE-Q4-eBook.jpg -> /manus-storage/0c013d67418d-PRE-Q4-eBook_e57dad13.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/fdf7cb6bd84c-PreXion-eBook-HowYourPeersEarnROIfrom3DCBCTScanImagingTechnology.pdf -> /manus-storage/fdf7cb6bd84c-PreXion-eBook-HowYourPeersEarnROIfrom3DCBCTScanImagingTechnology_f9ce1346.pdf
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/c48b34ce4fd1-19873-EXCELSIOR-ENDO-pose-03.png -> /manus-storage/c48b34ce4fd1-19873-EXCELSIOR-ENDO-pose-03_f725f485.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/14cbfd702276-Imagem-site-prexion1000-x-1000-px.png -> /manus-storage/14cbfd702276-Imagem-site-prexion1000-x-1000-px_193b0715.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/ebe36ba14a0f-NEW-5-adaptive-filters.png -> /manus-storage/ebe36ba14a0f-NEW-5-adaptive-filters_5cf1cdce.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/fec4fba1bb7a-NEW-Enhanced-Ortho.jpg -> /manus-storage/fec4fba1bb7a-NEW-Enhanced-Ortho_9630d7c6.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/7c49d335d9b0-NEW-Lateral-Ceph.jpg -> /manus-storage/7c49d335d9b0-NEW-Lateral-Ceph_a22dbc41.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/dd0ef149cb98-NEW-Panoramic.jpg -> /manus-storage/dd0ef149cb98-NEW-Panoramic_189f74a7.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/37044d32d1f8-eagle-scan-behind.png -> /manus-storage/37044d32d1f8-eagle-scan-behind_b7078065.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/2e00ca82c87e-eagle-scan-modoHD.jpg -> /manus-storage/2e00ca82c87e-eagle-scan-modoHD_5508ae50.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/466e52dc650d-evolve-xray11.png -> /manus-storage/466e52dc650d-evolve-xray11_432d0533.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/eb2116be8a48-evolve-xray22.png -> /manus-storage/eb2116be8a48-evolve-xray22_c9cc6e87.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/f2850c0247c6-evolve-xray33.png -> /manus-storage/f2850c0247c6-evolve-xray33_1f0a843d.png
+=====================================
+Total: 19, Success: 19, Failed: 0

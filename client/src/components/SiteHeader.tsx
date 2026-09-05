@@ -7,9 +7,11 @@ import { Link, useLocation } from "wouter";
 import { Menu, X } from "lucide-react";
 
 const navItems = [
-  ["Products", "/products"],
-  ["About", "/about"],
-  ["Education & Support", "/support"],
+  ["Products", "/product"],
+  ["Applications", "/applications-by-specialty"],
+  ["Support", "/support"],
+  ["Resources", "/resources"],
+  ["Company", "/about"],
   ["Contact", "/contact"],
 ] as const;
 

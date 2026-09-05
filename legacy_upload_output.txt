@@ -1,0 +1,560 @@
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/5e8a2efda78d-0bd7dcfd-15x8_10bj09d000000000000028.png (size: 27522 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/5e8a2efda78d-0bd7dcfd-15x8_10bj09d000000000000028_22ec2c26.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/8fd6b650cec1-58e85faf-icon-2_1000000000000000000028.png (size: 1227 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/8fd6b650cec1-58e85faf-icon-2_1000000000000000000028_071373a9.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/73fb195eea77-5e00dd37-5x5_109f09f000000000000028.png (size: 27344 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/73fb195eea77-5e00dd37-5x5_109f09f000000000000028_894e2423.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/bc77b47ee755-63dacb4d-icon-5_1000000000000000000028.png (size: 699 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/bc77b47ee755-63dacb4d-icon-5_1000000000000000000028_f68001fe.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/d91ef2eea9c3-987951ae-icon-1_1000000000000000000028.png (size: 1462 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/d91ef2eea9c3-987951ae-icon-1_1000000000000000000028_e65e16ea.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/86d8784597be-98f2607b-icon-3_1000000000000000000028.png (size: 1550 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/86d8784597be-98f2607b-icon-3_1000000000000000000028_b5102b10.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/06e7db90e11b-Catapult-Education.png (size: 12079 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/06e7db90e11b-Catapult-Education_ef27e33c.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/292679a61c1c-Commitment-To-Education.png (size: 89713 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/292679a61c1c-Commitment-To-Education_fd153722.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/141ed7c5cf10-Comparison-Chart.png (size: 208037 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/141ed7c5cf10-Comparison-Chart_f004dfd7.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/3876ed2683e8-EXPLORER_PRO-1.png (size: 63890 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/3876ed2683e8-EXPLORER_PRO-1_a53011b5.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/b4cdfb5eee62-EXPLR_180950-N.jpg (size: 83116 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/b4cdfb5eee62-EXPLR_180950-N_0691cdd1.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/944da45c3b37-Excelsior-Transparent-300dpi-2-1.png (size: 132675 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/944da45c3b37-Excelsior-Transparent-300dpi-2-1_f5f8db42.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/8869e4954713-Midwest-Implant-Institute.png (size: 18064 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/8869e4954713-Midwest-Implant-Institute_4467be72.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/e26e2fd690d8-PRE-Explorer-Pro-1.jpg (size: 38933 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/e26e2fd690d8-PRE-Explorer-Pro-1_33160a67.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/e27a98d16df4-PRE-ProductSpecialist-IMG.jpg (size: 162126 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/e27a98d16df4-PRE-ProductSpecialist-IMG_127219ef.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/161aed3dfa72-PRE-Support.jpg (size: 74623 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/161aed3dfa72-PRE-Support_ce1e3978.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/8efcdca5575b-Screen-Shot-2019-02-18-at-11.22.23-AM.png (size: 185721 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/8efcdca5575b-Screen-Shot-2019-02-18-at-11.22.23-AM_7d388dfc.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/ffbc42a5be65-Top-Quality-Imaging.png (size: 99308 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/ffbc42a5be65-Top-Quality-Imaging_14f01d0a.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/09ee3d8cf68b-b407d543-15x13_109a09a000000000000028.png (size: 27311 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/09ee3d8cf68b-b407d543-15x13_109a09a000000000000028_067f4047.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/a05658fdf116-b7ed37e0-10x5_109g09g000000000000028.png (size: 22748 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/a05658fdf116-b7ed37e0-10x5_109g09g000000000000028_89e8c08c.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/307cd34097d0-df099c25-10x8_109c09c000000000000028.png (size: 24082 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/307cd34097d0-df099c25-10x8_109c09c000000000000028_eb42b0dc.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/23885adedc0c-endo1.jpg (size: 32407 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/23885adedc0c-endo1_eadfa3b0.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/f5e55eb15684-endo2.jpg (size: 53826 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/f5e55eb15684-endo2_c3dae7ac.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/c6a1a838c9f5-endo4.jpg (size: 26317 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/c6a1a838c9f5-endo4_5783901c.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/c4586a0e2ee0-endo6.jpg (size: 48227 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/c4586a0e2ee0-endo6_b3ebfb4d.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/4c8eac92aa2c-endo7.jpg (size: 36527 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/4c8eac92aa2c-endo7_70cf9c15.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/f34c85370eb9-endo8.jpg (size: 49940 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/f34c85370eb9-endo8_5041c1df.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/aed2559e66fb-fbdf7669-icon-4_1000000000000000000028.png (size: 1498 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/aed2559e66fb-fbdf7669-icon-4_1000000000000000000028_604e2fb3.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/a509a1f7e914-implant13-300x300-1.jpg (size: 13928 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/a509a1f7e914-implant13-300x300-1_42dc093b.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/0395074b3002-implant3-300x300-1.jpg (size: 19221 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/0395074b3002-implant3-300x300-1_5418ca44.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/e3124ef69dd1-implant5.jpg (size: 41880 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/e3124ef69dd1-implant5_47a47e81.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/b6019828dd6c-implant7.jpg (size: 98643 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/b6019828dd6c-implant7_4514d97b.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/fb270afa2696-implant8.jpg (size: 75409 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/fb270afa2696-implant8_e258229f.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/60bfa20c6895-implant9.jpg (size: 22637 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/60bfa20c6895-implant9_b98b7734.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/12d13688325f-Dunson.jpeg (size: 9432 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/12d13688325f-Dunson_36bd4127.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/b743f0fb86e8-Halabo-Sam_2020.jpeg (size: 78500 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/b743f0fb86e8-Halabo-Sam_2020_24015c50.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/1b65e28296d5-Horowitz.jpeg (size: 10512 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/1b65e28296d5-Horowitz_9fbcaedb.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/36a1e0338aa8-LOU-Graham.png (size: 86870 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/36a1e0338aa8-LOU-Graham_43274360.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/9c6116bfbd50-PRE-10x10-1.png (size: 51510 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/9c6116bfbd50-PRE-10x10-1_11113046.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/2a270823a1b5-PRE-15x10-1.png (size: 50918 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/2a270823a1b5-PRE-15x10-1_af88cf3d.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/f5fad58f4d0c-PRE-15x16-1.jpg (size: 61681 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/f5fad58f4d0c-PRE-15x16-1_6b87a36d.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/f62552587fee-PRE-5x5-1.png (size: 78981 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/f62552587fee-PRE-5x5-1_2b0ec308.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/fe1548ae81b2-PRE-Focal-1.jpg (size: 65591 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/fe1548ae81b2-PRE-Focal-1_d823918c.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/cd7356b71a8c-PRE-Focal-2.jpg (size: 68941 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cd7356b71a8c-PRE-Focal-2_e75e24ad.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/d0ba8daa6b5d-PRE-OvercomingRisingCostsandEconomicChallengesinDentistry.pdf (size: 2189371 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/d0ba8daa6b5d-PRE-OvercomingRisingCostsandEconomicChallengesinDentistry_3a45c5ae.pdf
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/9b6d37e850ff-PRE-Xray-Photo.png (size: 182003 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/9b6d37e850ff-PRE-Xray-Photo_f3ea9cd8.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/3f6dc3e528c1-PRE-eBook-Q1-2023.jpg (size: 229390 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/3f6dc3e528c1-PRE-eBook-Q1-2023_6fb7bb66.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/1a4815528572-PRE-eBook-Q3-2023.jpg (size: 486406 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/1a4815528572-PRE-eBook-Q3-2023_6bcb7da1.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/8858ea00e671-Walinachus.jpeg (size: 6787 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/8858ea00e671-Walinachus_6d70095a.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/a5f941f5e1b3-special-offer.png (size: 35427 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/a5f941f5e1b3-special-offer_eb813ca6.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/bf501ec453b9-Evolve-2D.jpg (size: 58475 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/bf501ec453b9-Evolve-2D_7eb540fb.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/e743bb1ba8c3-MAR.jpg (size: 57967 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/e743bb1ba8c3-MAR_3748aadb.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/8b6355d78189-PMC.png (size: 124842 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/8b6355d78189-PMC_5781c0e0.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/7267252e6f97-PRE-Evolve-2.jpg (size: 81625 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/7267252e6f97-PRE-Evolve-2_0405b033.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/a94e153dfc5e-PreXion-Evolve-CBCT-Brochure.pdf (size: 602112 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/a94e153dfc5e-PreXion-Evolve-CBCT-Brochure_15822c3a.pdf
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/872e3f26015f-PRE-Explorer-EX.jpg (size: 90631 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/872e3f26015f-PRE-Explorer-EX_31b32cd6.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/96d2408c671b-PRE-eBook-Q1-2024-Cover.jpg (size: 167672 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/96d2408c671b-PRE-eBook-Q1-2024-Cover_40e3db31.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/e16f4a52e819-PRE-Offer-Starburst.png (size: 27763 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/e16f4a52e819-PRE-Offer-Starburst_e1e38cc1.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/3c7c2a93b31b-Brochure-Cover.jpg (size: 270398 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/3c7c2a93b31b-Brochure-Cover_422a9da3.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/710d64e2ffa6-PRE-Step-1.png (size: 6931 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/710d64e2ffa6-PRE-Step-1_bd0991c7.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/a021ec338669-PRE-Step-2.png (size: 8367 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/a021ec338669-PRE-Step-2_f3f01303.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/e8e59e98a1b7-PRE-Step-3.png (size: 8629 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/e8e59e98a1b7-PRE-Step-3_bcd65032.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/1ebc9b97e93b-banner_linha_do_tempo.jpg (size: 51699 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/1ebc9b97e93b-banner_linha_do_tempo_133d1735.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/923e8c99282f-eagle-scan-banner02.png (size: 73451 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/923e8c99282f-eagle-scan-banner02_7b6750a3.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/4ae66f3b5e48-19855-EXCELSIOR-COM-TELE-mid-300x300.png (size: 31714 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/4ae66f3b5e48-19855-EXCELSIOR-COM-TELE-mid-300x300_a65d5b87.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/b2994faf2fdb-19856-EXCELSIOR-COM-TELE-MAX-300x300.png (size: 25805 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/b2994faf2fdb-19856-EXCELSIOR-COM-TELE-MAX-300x300_ba11b452.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/81b688b6e5da-19873-EXCELSIOR-ENDO-pose-03-300x300.png (size: 15822 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/81b688b6e5da-19873-EXCELSIOR-ENDO-pose-03-300x300_8ec24a7d.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/34d825084965-EVOLVE-3D-SFOV-3EM1-300x169.png (size: 20326 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/34d825084965-EVOLVE-3D-SFOV-3EM1-300x169_8c3ca02a.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/16322faf57b3-NEW-Maxillary-Sinus-Ceph.jpg (size: 263189 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/16322faf57b3-NEW-Maxillary-Sinus-Ceph_b1707549.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/de5df0d6e5b3-eagle-scan-bitePLY.png (size: 114013 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/de5df0d6e5b3-eagle-scan-bitePLY_670e3959.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/11a9f5de4f09-eagle-scan-biteSTL-2b.png (size: 77734 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/11a9f5de4f09-eagle-scan-biteSTL-2b_955c5783.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/7a0716941335-eagle-scan-qualidade.jpg (size: 119161 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/7a0716941335-eagle-scan-qualidade_712a8ffd.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/761e646f59e7-eagle-scan-retencao.jpg (size: 100485 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/761e646f59e7-eagle-scan-retencao_7cacfb63.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/98b30ec32da2-evolucao-out_1.jpg (size: 60711 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/98b30ec32da2-evolucao-out_1_d9c92194.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/08a781db9168-evolucao-out_2.jpg (size: 55809 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/08a781db9168-evolucao-out_2_e604c871.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/206817a53d02-evolve-scan-1.png (size: 203795 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/206817a53d02-evolve-scan-1_675041a3.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/b3736f94e0e0-evolve-scan-2.png (size: 203209 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/b3736f94e0e0-evolve-scan-2_89078884.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/714b010972ff-evolve-scan-3.png (size: 333151 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/714b010972ff-evolve-scan-3_f17913a3.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/f2e21c96a52c-evolve_3d_5x5_1-300x300.jpg (size: 8603 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/f2e21c96a52c-evolve_3d_5x5_1-300x300_189b48b8.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/68291397df94-evolve_3d_9x6_1-300x300.jpg (size: 9401 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/68291397df94-evolve_3d_9x6_1-300x300_bf5c9b10.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/1defbd10dc54-evolve_3d_9x9_1-300x300.jpg (size: 9915 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/1defbd10dc54-evolve_3d_9x9_1-300x300_783e6101.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/473fd2531382-evolve_3d_9x9_2-300x300.jpg (size: 14060 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/473fd2531382-evolve_3d_9x9_2-300x300_286ac719.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/90cb19fdccf0-evolve_9x6_2-300x300.jpg (size: 11499 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/90cb19fdccf0-evolve_9x6_2-300x300_917854ef.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/d62f9ea06d5d-evovle_3d_5x5_2-1-300x300.jpg (size: 12830 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/d62f9ea06d5d-evovle_3d_5x5_2-1-300x300_f638dd11.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/a44f8110a6e9-fov_5x5_1-300x300.jpg (size: 13406 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/a44f8110a6e9-fov_5x5_1-300x300_b99624ab.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/50e1cc3cd9fc-fov_5x5_1.jpg (size: 31049 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/50e1cc3cd9fc-fov_5x5_1_8a0ff9d3.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/8460425f5456-fov_5x5_2.jpg (size: 24323 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/8460425f5456-fov_5x5_2_46097e69.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/88b37fde391b-fov_9x6_1.jpg (size: 26393 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/88b37fde391b-fov_9x6_1_4f99951b.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/aa93d06adee5-fov_9x6_2.jpg (size: 20976 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/aa93d06adee5-fov_9x6_2_33b84b19.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/f0d71fc9fffa-fov_9x9_1.jpg (size: 26088 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/f0d71fc9fffa-fov_9x9_1_b4a19b0c.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/9503537c02c8-fov_9x9_2.jpg (size: 29063 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/9503537c02c8-fov_9x9_2_332d19b5.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/50022a10f632-graphic-x-ray-300x169.jpg (size: 7211 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/50022a10f632-graphic-x-ray-300x169_5f98f9b6.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/545c6f57b539-https___downloads.alliage-global.com_wp-content_uploads_2025_03_77000001845-Portatil-AXR65-S-74.pdf (size: 251467 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/545c6f57b539-https___downloads.alliage-global.com_wp-content_uploads_2025_03_77000001845-Portatil-AXR65-S-74_1abcdf88.pdf
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/fd6994406e3b-22006-prexion-eua-externo-3-300x225.jpeg (size: 18895 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/fd6994406e3b-22006-prexion-eua-externo-3-300x225_6154926a.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/748c7cd2d916-2D-PANCEPH-2S_LATERAL-300x260.png (size: 42640 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/748c7cd2d916-2D-PANCEPH-2S_LATERAL-300x260_53ee64ee.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/f00474045440-Aug-5-7-Nashville-TN-300x185.jpg (size: 14802 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/f00474045440-Aug-5-7-Nashville-TN-300x185_89424b2c.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/910cf3cf832d-July-15-17-Atlanta-300x192.jpg (size: 14730 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/910cf3cf832d-July-15-17-Atlanta-300x192_2f11a329.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/e55aa75602ae-Jun-25-26-Kansas-City-300x175.jpg (size: 14622 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/e55aa75602ae-Jun-25-26-Kansas-City-300x175_7ff71891.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/14d05745dcb7-May-14-16-CDA-Anaheim-Anaheim-CA-300x158.jpg (size: 11760 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/14d05745dcb7-May-14-16-CDA-Anaheim-Anaheim-CA-300x158_21d1f4ae.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/6d22af42aaca-Nov-29-1-New-York-300x167.jpg (size: 14514 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/6d22af42aaca-Nov-29-1-New-York-300x167_f0900047.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/593100fd2e9a-Oct-14-16-Lake-Conroe-TX-2-300x248.jpg (size: 15724 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/593100fd2e9a-Oct-14-16-Lake-Conroe-TX-2-300x248_e8e43475.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/a7092c0bbfca-Saudi-International-Dental-Conference-SIDC.png (size: 844113 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/a7092c0bbfca-Saudi-International-Dental-Conference-SIDC_9f692e64.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/1d2f974540f9-banner-salt-lake-city-32-300x158.jpg (size: 13955 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/1d2f974540f9-banner-salt-lake-city-32-300x158_6a72182f.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/2a52a53739a2-chicago-22-700x441.jpg (size: 58883 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/2a52a53739a2-chicago-22-700x441_69cdc724.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/3585976508a9-chicago-22.jpg (size: 124970 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/3585976508a9-chicago-22_e35d8b55.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/3dabfd63b3b7-chicago-conference.jpg (size: 500519 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/3dabfd63b3b7-chicago-conference_ff740d27.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/5d24ac7a6bfe-evolve-3D-SFOV-300x232.jpg (size: 7906 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/5d24ac7a6bfe-evolve-3D-SFOV-300x232_00c01aa8.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/7a7bbea44b20-evolve-scan-300x232.jpg (size: 9963 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/7a7bbea44b20-evolve-scan-300x232_320eb969.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/26e43c8fdcf5-evolve-x-ray-300x232.jpg (size: 8419 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/26e43c8fdcf5-evolve-x-ray-300x232_c46e2673.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/ef91f960c398-FOTO_AEE_ABRIL_26-1-225x300.jpg (size: 17660 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/ef91f960c398-FOTO_AEE_ABRIL_26-1-225x300_6216c4c6.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/070f1aaad6a6-FOTO_AEE_ABRIL_26-11-700x441.jpg (size: 47882 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/070f1aaad6a6-FOTO_AEE_ABRIL_26-11-700x441_50e35035.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/eab64f5c1120-FOTO_AEE_ABRIL_26-11.jpg (size: 135769 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/eab64f5c1120-FOTO_AEE_ABRIL_26-11_69a5a4a0.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/4986b93ba21b-FOTO_AEE_ABRIL_26-2-225x300.jpg (size: 17842 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/4986b93ba21b-FOTO_AEE_ABRIL_26-2-225x300_dd81b35e.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/9cf29c46a5da-dental-emr.png (size: 151102 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/9cf29c46a5da-dental-emr_800dd17e.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/2733ad1c2f86-14-16-May-Arts-and-Science-California-e1779395147102-700x441.jpeg (size: 66898 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/2733ad1c2f86-14-16-May-Arts-and-Science-California-e1779395147102-700x441_40cb21fd.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/add38f1e0740-14-16-May-Arts-and-Science-California-e1779395147102.jpeg (size: 156214 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/add38f1e0740-14-16-May-Arts-and-Science-California-e1779395147102_f695c846.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/eba5f7ede8d2-19891-Prexion-Evolve-Digital-Sensor-T1-e-T2-slim-300x225.png (size: 32276 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/eba5f7ede8d2-19891-Prexion-Evolve-Digital-Sensor-T1-e-T2-slim-300x225_3d395ff5.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/10a3133ad618-California_banner-300x200.jpg (size: 13094 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/10a3133ad618-California_banner-300x200_1848b6b8.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/904e355eb83a-Prexion-Evolve-Intraoral-Sensor-Sell-Sheet_review_05_2026_03.pdf (size: 2079226 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/904e355eb83a-Prexion-Evolve-Intraoral-Sensor-Sell-Sheet_review_05_2026_03_89a4b6df.pdf
+
+========== Upload Summary ==========
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/5e8a2efda78d-0bd7dcfd-15x8_10bj09d000000000000028.png -> /manus-storage/5e8a2efda78d-0bd7dcfd-15x8_10bj09d000000000000028_22ec2c26.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/8fd6b650cec1-58e85faf-icon-2_1000000000000000000028.png -> /manus-storage/8fd6b650cec1-58e85faf-icon-2_1000000000000000000028_071373a9.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/73fb195eea77-5e00dd37-5x5_109f09f000000000000028.png -> /manus-storage/73fb195eea77-5e00dd37-5x5_109f09f000000000000028_894e2423.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/bc77b47ee755-63dacb4d-icon-5_1000000000000000000028.png -> /manus-storage/bc77b47ee755-63dacb4d-icon-5_1000000000000000000028_f68001fe.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/d91ef2eea9c3-987951ae-icon-1_1000000000000000000028.png -> /manus-storage/d91ef2eea9c3-987951ae-icon-1_1000000000000000000028_e65e16ea.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/86d8784597be-98f2607b-icon-3_1000000000000000000028.png -> /manus-storage/86d8784597be-98f2607b-icon-3_1000000000000000000028_b5102b10.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/06e7db90e11b-Catapult-Education.png -> /manus-storage/06e7db90e11b-Catapult-Education_ef27e33c.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/292679a61c1c-Commitment-To-Education.png -> /manus-storage/292679a61c1c-Commitment-To-Education_fd153722.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/141ed7c5cf10-Comparison-Chart.png -> /manus-storage/141ed7c5cf10-Comparison-Chart_f004dfd7.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/3876ed2683e8-EXPLORER_PRO-1.png -> /manus-storage/3876ed2683e8-EXPLORER_PRO-1_a53011b5.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/b4cdfb5eee62-EXPLR_180950-N.jpg -> /manus-storage/b4cdfb5eee62-EXPLR_180950-N_0691cdd1.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/944da45c3b37-Excelsior-Transparent-300dpi-2-1.png -> /manus-storage/944da45c3b37-Excelsior-Transparent-300dpi-2-1_f5f8db42.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/8869e4954713-Midwest-Implant-Institute.png -> /manus-storage/8869e4954713-Midwest-Implant-Institute_4467be72.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/e26e2fd690d8-PRE-Explorer-Pro-1.jpg -> /manus-storage/e26e2fd690d8-PRE-Explorer-Pro-1_33160a67.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/e27a98d16df4-PRE-ProductSpecialist-IMG.jpg -> /manus-storage/e27a98d16df4-PRE-ProductSpecialist-IMG_127219ef.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/161aed3dfa72-PRE-Support.jpg -> /manus-storage/161aed3dfa72-PRE-Support_ce1e3978.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/8efcdca5575b-Screen-Shot-2019-02-18-at-11.22.23-AM.png -> /manus-storage/8efcdca5575b-Screen-Shot-2019-02-18-at-11.22.23-AM_7d388dfc.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/ffbc42a5be65-Top-Quality-Imaging.png -> /manus-storage/ffbc42a5be65-Top-Quality-Imaging_14f01d0a.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/09ee3d8cf68b-b407d543-15x13_109a09a000000000000028.png -> /manus-storage/09ee3d8cf68b-b407d543-15x13_109a09a000000000000028_067f4047.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/a05658fdf116-b7ed37e0-10x5_109g09g000000000000028.png -> /manus-storage/a05658fdf116-b7ed37e0-10x5_109g09g000000000000028_89e8c08c.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/307cd34097d0-df099c25-10x8_109c09c000000000000028.png -> /manus-storage/307cd34097d0-df099c25-10x8_109c09c000000000000028_eb42b0dc.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/23885adedc0c-endo1.jpg -> /manus-storage/23885adedc0c-endo1_eadfa3b0.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/f5e55eb15684-endo2.jpg -> /manus-storage/f5e55eb15684-endo2_c3dae7ac.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/c6a1a838c9f5-endo4.jpg -> /manus-storage/c6a1a838c9f5-endo4_5783901c.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/c4586a0e2ee0-endo6.jpg -> /manus-storage/c4586a0e2ee0-endo6_b3ebfb4d.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/4c8eac92aa2c-endo7.jpg -> /manus-storage/4c8eac92aa2c-endo7_70cf9c15.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/f34c85370eb9-endo8.jpg -> /manus-storage/f34c85370eb9-endo8_5041c1df.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/aed2559e66fb-fbdf7669-icon-4_1000000000000000000028.png -> /manus-storage/aed2559e66fb-fbdf7669-icon-4_1000000000000000000028_604e2fb3.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/a509a1f7e914-implant13-300x300-1.jpg -> /manus-storage/a509a1f7e914-implant13-300x300-1_42dc093b.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/0395074b3002-implant3-300x300-1.jpg -> /manus-storage/0395074b3002-implant3-300x300-1_5418ca44.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/e3124ef69dd1-implant5.jpg -> /manus-storage/e3124ef69dd1-implant5_47a47e81.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/b6019828dd6c-implant7.jpg -> /manus-storage/b6019828dd6c-implant7_4514d97b.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/fb270afa2696-implant8.jpg -> /manus-storage/fb270afa2696-implant8_e258229f.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/60bfa20c6895-implant9.jpg -> /manus-storage/60bfa20c6895-implant9_b98b7734.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/12d13688325f-Dunson.jpeg -> /manus-storage/12d13688325f-Dunson_36bd4127.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/b743f0fb86e8-Halabo-Sam_2020.jpeg -> /manus-storage/b743f0fb86e8-Halabo-Sam_2020_24015c50.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/1b65e28296d5-Horowitz.jpeg -> /manus-storage/1b65e28296d5-Horowitz_9fbcaedb.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/36a1e0338aa8-LOU-Graham.png -> /manus-storage/36a1e0338aa8-LOU-Graham_43274360.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/9c6116bfbd50-PRE-10x10-1.png -> /manus-storage/9c6116bfbd50-PRE-10x10-1_11113046.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/2a270823a1b5-PRE-15x10-1.png -> /manus-storage/2a270823a1b5-PRE-15x10-1_af88cf3d.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/f5fad58f4d0c-PRE-15x16-1.jpg -> /manus-storage/f5fad58f4d0c-PRE-15x16-1_6b87a36d.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/f62552587fee-PRE-5x5-1.png -> /manus-storage/f62552587fee-PRE-5x5-1_2b0ec308.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/fe1548ae81b2-PRE-Focal-1.jpg -> /manus-storage/fe1548ae81b2-PRE-Focal-1_d823918c.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/cd7356b71a8c-PRE-Focal-2.jpg -> /manus-storage/cd7356b71a8c-PRE-Focal-2_e75e24ad.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/d0ba8daa6b5d-PRE-OvercomingRisingCostsandEconomicChallengesinDentistry.pdf -> /manus-storage/d0ba8daa6b5d-PRE-OvercomingRisingCostsandEconomicChallengesinDentistry_3a45c5ae.pdf
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/9b6d37e850ff-PRE-Xray-Photo.png -> /manus-storage/9b6d37e850ff-PRE-Xray-Photo_f3ea9cd8.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/3f6dc3e528c1-PRE-eBook-Q1-2023.jpg -> /manus-storage/3f6dc3e528c1-PRE-eBook-Q1-2023_6fb7bb66.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/1a4815528572-PRE-eBook-Q3-2023.jpg -> /manus-storage/1a4815528572-PRE-eBook-Q3-2023_6bcb7da1.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/8858ea00e671-Walinachus.jpeg -> /manus-storage/8858ea00e671-Walinachus_6d70095a.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/a5f941f5e1b3-special-offer.png -> /manus-storage/a5f941f5e1b3-special-offer_eb813ca6.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/bf501ec453b9-Evolve-2D.jpg -> /manus-storage/bf501ec453b9-Evolve-2D_7eb540fb.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/e743bb1ba8c3-MAR.jpg -> /manus-storage/e743bb1ba8c3-MAR_3748aadb.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/8b6355d78189-PMC.png -> /manus-storage/8b6355d78189-PMC_5781c0e0.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/7267252e6f97-PRE-Evolve-2.jpg -> /manus-storage/7267252e6f97-PRE-Evolve-2_0405b033.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/a94e153dfc5e-PreXion-Evolve-CBCT-Brochure.pdf -> /manus-storage/a94e153dfc5e-PreXion-Evolve-CBCT-Brochure_15822c3a.pdf
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/872e3f26015f-PRE-Explorer-EX.jpg -> /manus-storage/872e3f26015f-PRE-Explorer-EX_31b32cd6.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/96d2408c671b-PRE-eBook-Q1-2024-Cover.jpg -> /manus-storage/96d2408c671b-PRE-eBook-Q1-2024-Cover_40e3db31.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/e16f4a52e819-PRE-Offer-Starburst.png -> /manus-storage/e16f4a52e819-PRE-Offer-Starburst_e1e38cc1.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/3c7c2a93b31b-Brochure-Cover.jpg -> /manus-storage/3c7c2a93b31b-Brochure-Cover_422a9da3.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/710d64e2ffa6-PRE-Step-1.png -> /manus-storage/710d64e2ffa6-PRE-Step-1_bd0991c7.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/a021ec338669-PRE-Step-2.png -> /manus-storage/a021ec338669-PRE-Step-2_f3f01303.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/e8e59e98a1b7-PRE-Step-3.png -> /manus-storage/e8e59e98a1b7-PRE-Step-3_bcd65032.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/1ebc9b97e93b-banner_linha_do_tempo.jpg -> /manus-storage/1ebc9b97e93b-banner_linha_do_tempo_133d1735.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/923e8c99282f-eagle-scan-banner02.png -> /manus-storage/923e8c99282f-eagle-scan-banner02_7b6750a3.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/4ae66f3b5e48-19855-EXCELSIOR-COM-TELE-mid-300x300.png -> /manus-storage/4ae66f3b5e48-19855-EXCELSIOR-COM-TELE-mid-300x300_a65d5b87.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/b2994faf2fdb-19856-EXCELSIOR-COM-TELE-MAX-300x300.png -> /manus-storage/b2994faf2fdb-19856-EXCELSIOR-COM-TELE-MAX-300x300_ba11b452.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/81b688b6e5da-19873-EXCELSIOR-ENDO-pose-03-300x300.png -> /manus-storage/81b688b6e5da-19873-EXCELSIOR-ENDO-pose-03-300x300_8ec24a7d.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/34d825084965-EVOLVE-3D-SFOV-3EM1-300x169.png -> /manus-storage/34d825084965-EVOLVE-3D-SFOV-3EM1-300x169_8c3ca02a.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/16322faf57b3-NEW-Maxillary-Sinus-Ceph.jpg -> /manus-storage/16322faf57b3-NEW-Maxillary-Sinus-Ceph_b1707549.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/de5df0d6e5b3-eagle-scan-bitePLY.png -> /manus-storage/de5df0d6e5b3-eagle-scan-bitePLY_670e3959.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/11a9f5de4f09-eagle-scan-biteSTL-2b.png -> /manus-storage/11a9f5de4f09-eagle-scan-biteSTL-2b_955c5783.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/7a0716941335-eagle-scan-qualidade.jpg -> /manus-storage/7a0716941335-eagle-scan-qualidade_712a8ffd.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/761e646f59e7-eagle-scan-retencao.jpg -> /manus-storage/761e646f59e7-eagle-scan-retencao_7cacfb63.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/98b30ec32da2-evolucao-out_1.jpg -> /manus-storage/98b30ec32da2-evolucao-out_1_d9c92194.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/08a781db9168-evolucao-out_2.jpg -> /manus-storage/08a781db9168-evolucao-out_2_e604c871.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/206817a53d02-evolve-scan-1.png -> /manus-storage/206817a53d02-evolve-scan-1_675041a3.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/b3736f94e0e0-evolve-scan-2.png -> /manus-storage/b3736f94e0e0-evolve-scan-2_89078884.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/714b010972ff-evolve-scan-3.png -> /manus-storage/714b010972ff-evolve-scan-3_f17913a3.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/f2e21c96a52c-evolve_3d_5x5_1-300x300.jpg -> /manus-storage/f2e21c96a52c-evolve_3d_5x5_1-300x300_189b48b8.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/68291397df94-evolve_3d_9x6_1-300x300.jpg -> /manus-storage/68291397df94-evolve_3d_9x6_1-300x300_bf5c9b10.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/1defbd10dc54-evolve_3d_9x9_1-300x300.jpg -> /manus-storage/1defbd10dc54-evolve_3d_9x9_1-300x300_783e6101.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/473fd2531382-evolve_3d_9x9_2-300x300.jpg -> /manus-storage/473fd2531382-evolve_3d_9x9_2-300x300_286ac719.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/90cb19fdccf0-evolve_9x6_2-300x300.jpg -> /manus-storage/90cb19fdccf0-evolve_9x6_2-300x300_917854ef.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/d62f9ea06d5d-evovle_3d_5x5_2-1-300x300.jpg -> /manus-storage/d62f9ea06d5d-evovle_3d_5x5_2-1-300x300_f638dd11.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/a44f8110a6e9-fov_5x5_1-300x300.jpg -> /manus-storage/a44f8110a6e9-fov_5x5_1-300x300_b99624ab.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/50e1cc3cd9fc-fov_5x5_1.jpg -> /manus-storage/50e1cc3cd9fc-fov_5x5_1_8a0ff9d3.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/8460425f5456-fov_5x5_2.jpg -> /manus-storage/8460425f5456-fov_5x5_2_46097e69.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/88b37fde391b-fov_9x6_1.jpg -> /manus-storage/88b37fde391b-fov_9x6_1_4f99951b.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/aa93d06adee5-fov_9x6_2.jpg -> /manus-storage/aa93d06adee5-fov_9x6_2_33b84b19.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/f0d71fc9fffa-fov_9x9_1.jpg -> /manus-storage/f0d71fc9fffa-fov_9x9_1_b4a19b0c.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/9503537c02c8-fov_9x9_2.jpg -> /manus-storage/9503537c02c8-fov_9x9_2_332d19b5.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/50022a10f632-graphic-x-ray-300x169.jpg -> /manus-storage/50022a10f632-graphic-x-ray-300x169_5f98f9b6.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/545c6f57b539-https___downloads.alliage-global.com_wp-content_uploads_2025_03_77000001845-Portatil-AXR65-S-74.pdf -> /manus-storage/545c6f57b539-https___downloads.alliage-global.com_wp-content_uploads_2025_03_77000001845-Portatil-AXR65-S-74_1abcdf88.pdf
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/fd6994406e3b-22006-prexion-eua-externo-3-300x225.jpeg -> /manus-storage/fd6994406e3b-22006-prexion-eua-externo-3-300x225_6154926a.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/748c7cd2d916-2D-PANCEPH-2S_LATERAL-300x260.png -> /manus-storage/748c7cd2d916-2D-PANCEPH-2S_LATERAL-300x260_53ee64ee.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/f00474045440-Aug-5-7-Nashville-TN-300x185.jpg -> /manus-storage/f00474045440-Aug-5-7-Nashville-TN-300x185_89424b2c.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/910cf3cf832d-July-15-17-Atlanta-300x192.jpg -> /manus-storage/910cf3cf832d-July-15-17-Atlanta-300x192_2f11a329.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/e55aa75602ae-Jun-25-26-Kansas-City-300x175.jpg -> /manus-storage/e55aa75602ae-Jun-25-26-Kansas-City-300x175_7ff71891.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/14d05745dcb7-May-14-16-CDA-Anaheim-Anaheim-CA-300x158.jpg -> /manus-storage/14d05745dcb7-May-14-16-CDA-Anaheim-Anaheim-CA-300x158_21d1f4ae.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/6d22af42aaca-Nov-29-1-New-York-300x167.jpg -> /manus-storage/6d22af42aaca-Nov-29-1-New-York-300x167_f0900047.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/593100fd2e9a-Oct-14-16-Lake-Conroe-TX-2-300x248.jpg -> /manus-storage/593100fd2e9a-Oct-14-16-Lake-Conroe-TX-2-300x248_e8e43475.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/a7092c0bbfca-Saudi-International-Dental-Conference-SIDC.png -> /manus-storage/a7092c0bbfca-Saudi-International-Dental-Conference-SIDC_9f692e64.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/1d2f974540f9-banner-salt-lake-city-32-300x158.jpg -> /manus-storage/1d2f974540f9-banner-salt-lake-city-32-300x158_6a72182f.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/2a52a53739a2-chicago-22-700x441.jpg -> /manus-storage/2a52a53739a2-chicago-22-700x441_69cdc724.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/3585976508a9-chicago-22.jpg -> /manus-storage/3585976508a9-chicago-22_e35d8b55.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/3dabfd63b3b7-chicago-conference.jpg -> /manus-storage/3dabfd63b3b7-chicago-conference_ff740d27.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/5d24ac7a6bfe-evolve-3D-SFOV-300x232.jpg -> /manus-storage/5d24ac7a6bfe-evolve-3D-SFOV-300x232_00c01aa8.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/7a7bbea44b20-evolve-scan-300x232.jpg -> /manus-storage/7a7bbea44b20-evolve-scan-300x232_320eb969.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/26e43c8fdcf5-evolve-x-ray-300x232.jpg -> /manus-storage/26e43c8fdcf5-evolve-x-ray-300x232_c46e2673.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/ef91f960c398-FOTO_AEE_ABRIL_26-1-225x300.jpg -> /manus-storage/ef91f960c398-FOTO_AEE_ABRIL_26-1-225x300_6216c4c6.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/070f1aaad6a6-FOTO_AEE_ABRIL_26-11-700x441.jpg -> /manus-storage/070f1aaad6a6-FOTO_AEE_ABRIL_26-11-700x441_50e35035.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/eab64f5c1120-FOTO_AEE_ABRIL_26-11.jpg -> /manus-storage/eab64f5c1120-FOTO_AEE_ABRIL_26-11_69a5a4a0.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/4986b93ba21b-FOTO_AEE_ABRIL_26-2-225x300.jpg -> /manus-storage/4986b93ba21b-FOTO_AEE_ABRIL_26-2-225x300_dd81b35e.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/9cf29c46a5da-dental-emr.png -> /manus-storage/9cf29c46a5da-dental-emr_800dd17e.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/2733ad1c2f86-14-16-May-Arts-and-Science-California-e1779395147102-700x441.jpeg -> /manus-storage/2733ad1c2f86-14-16-May-Arts-and-Science-California-e1779395147102-700x441_40cb21fd.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/add38f1e0740-14-16-May-Arts-and-Science-California-e1779395147102.jpeg -> /manus-storage/add38f1e0740-14-16-May-Arts-and-Science-California-e1779395147102_f695c846.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/eba5f7ede8d2-19891-Prexion-Evolve-Digital-Sensor-T1-e-T2-slim-300x225.png -> /manus-storage/eba5f7ede8d2-19891-Prexion-Evolve-Digital-Sensor-T1-e-T2-slim-300x225_3d395ff5.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/10a3133ad618-California_banner-300x200.jpg -> /manus-storage/10a3133ad618-California_banner-300x200_1848b6b8.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/904e355eb83a-Prexion-Evolve-Intraoral-Sensor-Sell-Sheet_review_05_2026_03.pdf -> /manus-storage/904e355eb83a-Prexion-Evolve-Intraoral-Sensor-Sell-Sheet_review_05_2026_03_89a4b6df.pdf
+=====================================
+Total: 119, Success: 119, Failed: 0
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/056f76f88b06-UHD.png (size: 119319 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/056f76f88b06-UHD_8ebeb901.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/1e0d7540a2c3-PreXion-Expedition-Model-Brochure.pdf (size: 16730952 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/1e0d7540a2c3-PreXion-Expedition-Model-Brochure_43778941.pdf
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/73eed30ae938-PreXion-Expedition-Model-Brochure_FINAL_1223.pdf (size: 16730952 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/73eed30ae938-PreXion-Expedition-Model-Brochure_FINAL_1223_8619471b.pdf
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/9dbbe26071e9-PreXion_Expedition_with_ceph.png (size: 299149 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/9dbbe26071e9-PreXion_Expedition_with_ceph_107aeb5f.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/e11216173a71-Prexion-Dental-Professionals-Insights-onPrecision-Imaging-Excellence-eBook-Cover.jpg (size: 690081 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/e11216173a71-Prexion-Dental-Professionals-Insights-onPrecision-Imaging-Excellence-eBook-Cover_9d7f147d.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/5e4d681628b4-Prexion-Dental-Professionals-Insights-onPrecision-Imaging-Excellence-eBook.pdf (size: 4122599 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/5e4d681628b4-Prexion-Dental-Professionals-Insights-onPrecision-Imaging-Excellence-eBook_1bf0d296.pdf
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/0c013d67418d-PRE-Q4-eBook.jpg (size: 491923 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/0c013d67418d-PRE-Q4-eBook_e57dad13.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/fdf7cb6bd84c-PreXion-eBook-HowYourPeersEarnROIfrom3DCBCTScanImagingTechnology.pdf (size: 3605907 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/fdf7cb6bd84c-PreXion-eBook-HowYourPeersEarnROIfrom3DCBCTScanImagingTechnology_f9ce1346.pdf
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/c48b34ce4fd1-19873-EXCELSIOR-ENDO-pose-03.png (size: 897972 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/c48b34ce4fd1-19873-EXCELSIOR-ENDO-pose-03_f725f485.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/14cbfd702276-Imagem-site-prexion1000-x-1000-px.png (size: 600921 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/14cbfd702276-Imagem-site-prexion1000-x-1000-px_193b0715.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/ebe36ba14a0f-NEW-5-adaptive-filters.png (size: 1549379 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/ebe36ba14a0f-NEW-5-adaptive-filters_5cf1cdce.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/fec4fba1bb7a-NEW-Enhanced-Ortho.jpg (size: 383198 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/fec4fba1bb7a-NEW-Enhanced-Ortho_9630d7c6.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/7c49d335d9b0-NEW-Lateral-Ceph.jpg (size: 412996 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/7c49d335d9b0-NEW-Lateral-Ceph_a22dbc41.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/dd0ef149cb98-NEW-Panoramic.jpg (size: 360888 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/dd0ef149cb98-NEW-Panoramic_189f74a7.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/37044d32d1f8-eagle-scan-behind.png (size: 266179 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/37044d32d1f8-eagle-scan-behind_b7078065.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/2e00ca82c87e-eagle-scan-modoHD.jpg (size: 94859 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/2e00ca82c87e-eagle-scan-modoHD_5508ae50.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/466e52dc650d-evolve-xray11.png (size: 1149425 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/466e52dc650d-evolve-xray11_432d0533.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/eb2116be8a48-evolve-xray22.png (size: 1197145 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/eb2116be8a48-evolve-xray22_c9cc6e87.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/legacy/f2850c0247c6-evolve-xray33.png (size: 930821 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/f2850c0247c6-evolve-xray33_1f0a843d.png
+
+========== Upload Summary ==========
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/056f76f88b06-UHD.png -> /manus-storage/056f76f88b06-UHD_8ebeb901.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/1e0d7540a2c3-PreXion-Expedition-Model-Brochure.pdf -> /manus-storage/1e0d7540a2c3-PreXion-Expedition-Model-Brochure_43778941.pdf
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/73eed30ae938-PreXion-Expedition-Model-Brochure_FINAL_1223.pdf -> /manus-storage/73eed30ae938-PreXion-Expedition-Model-Brochure_FINAL_1223_8619471b.pdf
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/9dbbe26071e9-PreXion_Expedition_with_ceph.png -> /manus-storage/9dbbe26071e9-PreXion_Expedition_with_ceph_107aeb5f.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/e11216173a71-Prexion-Dental-Professionals-Insights-onPrecision-Imaging-Excellence-eBook-Cover.jpg -> /manus-storage/e11216173a71-Prexion-Dental-Professionals-Insights-onPrecision-Imaging-Excellence-eBook-Cover_9d7f147d.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/5e4d681628b4-Prexion-Dental-Professionals-Insights-onPrecision-Imaging-Excellence-eBook.pdf -> /manus-storage/5e4d681628b4-Prexion-Dental-Professionals-Insights-onPrecision-Imaging-Excellence-eBook_1bf0d296.pdf
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/0c013d67418d-PRE-Q4-eBook.jpg -> /manus-storage/0c013d67418d-PRE-Q4-eBook_e57dad13.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/fdf7cb6bd84c-PreXion-eBook-HowYourPeersEarnROIfrom3DCBCTScanImagingTechnology.pdf -> /manus-storage/fdf7cb6bd84c-PreXion-eBook-HowYourPeersEarnROIfrom3DCBCTScanImagingTechnology_f9ce1346.pdf
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/c48b34ce4fd1-19873-EXCELSIOR-ENDO-pose-03.png -> /manus-storage/c48b34ce4fd1-19873-EXCELSIOR-ENDO-pose-03_f725f485.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/14cbfd702276-Imagem-site-prexion1000-x-1000-px.png -> /manus-storage/14cbfd702276-Imagem-site-prexion1000-x-1000-px_193b0715.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/ebe36ba14a0f-NEW-5-adaptive-filters.png -> /manus-storage/ebe36ba14a0f-NEW-5-adaptive-filters_5cf1cdce.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/fec4fba1bb7a-NEW-Enhanced-Ortho.jpg -> /manus-storage/fec4fba1bb7a-NEW-Enhanced-Ortho_9630d7c6.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/7c49d335d9b0-NEW-Lateral-Ceph.jpg -> /manus-storage/7c49d335d9b0-NEW-Lateral-Ceph_a22dbc41.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/dd0ef149cb98-NEW-Panoramic.jpg -> /manus-storage/dd0ef149cb98-NEW-Panoramic_189f74a7.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/37044d32d1f8-eagle-scan-behind.png -> /manus-storage/37044d32d1f8-eagle-scan-behind_b7078065.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/2e00ca82c87e-eagle-scan-modoHD.jpg -> /manus-storage/2e00ca82c87e-eagle-scan-modoHD_5508ae50.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/466e52dc650d-evolve-xray11.png -> /manus-storage/466e52dc650d-evolve-xray11_432d0533.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/eb2116be8a48-evolve-xray22.png -> /manus-storage/eb2116be8a48-evolve-xray22_c9cc6e87.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/legacy/f2850c0247c6-evolve-xray33.png -> /manus-storage/f2850c0247c6-evolve-xray33_1f0a843d.png
+=====================================
+Total: 19, Success: 19, Failed: 0

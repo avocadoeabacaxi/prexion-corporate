@@ -75,3 +75,5 @@ O wordmark oficial PreXion será preservado quando houver ativo adequado. Como s
 - O azul espectral `#13A9E8` não será usado como superfície dominante. Ele fica reservado a números, linhas de varredura, estados ativos, sublinhados e dados diagnósticos.
 - A ênfase azul em itálico será usada apenas em frases decisivas; outras seções poderão ser lideradas por números, especificações ou afirmações curtas sem repetir a mesma fórmula.
 - Cada página principal deverá conter pelo menos um motivo visível de instrumentação diagnóstica, como linha de varredura, retícula, marca de calibração, índice marginal, diagrama de FOV ou anotação técnica.
+- Páginas de arquivo nunca exibirão notas internas, fragmentos brutos ou nomes técnicos de armazenamento como conteúdo principal; o material legado será apresentado em capítulos editoriais e índices técnicos curados.
+- Cada herói terá um motivo próprio — retícula clínica, matriz de arquivo, escala indexada ou traço de ROI — além da ênfase tipográfica azul.

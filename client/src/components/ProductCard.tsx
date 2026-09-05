@@ -24,7 +24,7 @@ export default function ProductCard({ product, index = 1 }: { product: Product; 
           <h3>{product.name}</h3>
           <p>{product.summary}</p>
         </div>
-        <Link href={`/products/${product.slug}`} className="circle-link" aria-label={`View ${product.name}`}>
+        <Link href={`/product/${product.slug}`} className="circle-link" aria-label={`View ${product.name}`}>
           <ArrowUpRight size={22} />
         </Link>
       </div>

@@ -16,15 +16,17 @@ export default function SiteFooter() {
         </div>
         <div>
           <p className="footer-label">Explore</p>
-          <Link href="/products">Imaging systems</Link>
+          <Link href="/product">Imaging systems</Link>
           <Link href="/about">Our story</Link>
           <Link href="/support">Education & support</Link>
+          <Link href="/site-map">Complete site index</Link>
         </div>
         <div>
           <p className="footer-label">Connect</p>
           <a href="tel:8557739466">855-PREXION</a>
           <a href="tel:6502120314">Support: (650) 212-0314</a>
           <Link href="/contact">Find a specialist</Link>
+          <Link href="/resources">Downloads & resources</Link>
         </div>
         <div className="footer-cta">
           <p className="footer-label">Start a conversation</p>

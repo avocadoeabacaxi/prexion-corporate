@@ -6,9 +6,9 @@ import { ArrowRight, BookOpen, CalendarDays, Headphones, PlayCircle } from "luci
 
 const resources = [
   { icon: Headphones, title: "Remote support", copy: "Connect directly with trained technical support for product and software assistance.", action: "Call (650) 212-0314", href: "tel:6502120314" },
-  { icon: PlayCircle, title: "Training videos", copy: "Build confidence in acquisition, software and clinical workflows through on-demand instruction.", action: "Visit video library", href: "https://www.prexion.com/training-videos/" },
-  { icon: CalendarDays, title: "Events & education", copy: "Meet PreXion and clinical educators at focused courses, conferences and industry events.", action: "View upcoming events", href: "https://www.prexion.com/news-2/" },
-  { icon: BookOpen, title: "Product documentation", copy: "Access brochures, specifications and resources for current PreXion imaging systems.", action: "Browse products", href: "/products" },
+  { icon: PlayCircle, title: "Training videos", copy: "Build confidence in acquisition, software and clinical workflows through on-demand instruction.", action: "Visit video library", href: "/support/training" },
+  { icon: CalendarDays, title: "Events & education", copy: "Meet PreXion and clinical educators at focused courses, conferences and industry events.", action: "View upcoming events", href: "/events" },
+  { icon: BookOpen, title: "Product documentation", copy: "Access brochures, specifications and resources for current PreXion imaging systems.", action: "Browse products", href: "/product" },
 ];
 
 export default function Support() {
