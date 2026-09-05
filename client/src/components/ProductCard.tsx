@@ -8,7 +8,7 @@ import type { Product } from "@/data/products";
 
 export default function ProductCard({ product, index = 1 }: { product: Product; index?: number }) {
   return (
-    <article className="product-card">
+    <Link href={`/product/${product.slug}`} className="product-card" aria-label={`View ${product.name}`}>
       <div className="product-card__meta">
         <span>{String(index).padStart(2, "0")}</span>
         <span>{product.family}</span>
@@ -24,10 +24,10 @@ export default function ProductCard({ product, index = 1 }: { product: Product; 
           <h3>{product.name}</h3>
           <p>{product.summary}</p>
         </div>
-        <Link href={`/product/${product.slug}`} className="circle-link" aria-label={`View ${product.name}`}>
+        <span className="circle-link" aria-hidden="true">
           <ArrowUpRight size={22} />
-        </Link>
+        </span>
       </div>
-    </article>
+    </Link>
   );
 }

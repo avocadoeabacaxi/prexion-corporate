@@ -26,6 +26,10 @@
 
 ## Validação
 
+- [x] Fazer toda mudança de rota interna abrir no topo da nova página.
+- [x] Tornar imagem, título, descrição e seta de cada produto parte de um único card clicável.
+- [x] Ocultar o PreXion Elite do catálogo, destaques, contagens, links, índice e rotas públicas.
+- [x] Validar cliques em imagens, cards e navegação no desktop e no celular.
 - [x] Tornar `/product` a rota canônica obrigatória para catálogo e importação de produtos.
 - [x] Atualizar todos os links, CTAs e destinos canônicos de produto para `/product` ou `/product/:slug`.
 - [x] Manter `/products` apenas como compatibilidade, encaminhando o usuário para `/product`.

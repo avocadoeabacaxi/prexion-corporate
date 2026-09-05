@@ -7,13 +7,13 @@ import { Link } from "wouter";
 import ProductCard from "@/components/ProductCard";
 import { products } from "@/data/products";
 
-const featured = [products[0], products[2], products[5], products[6]];
+const featured = products.filter((product) => ["excelsior-mid", "excelsior-max", "evolve-3d", "evolve-scan"].includes(product.slug));
 
 export default function Home() {
   return (
     <main className="home-page">
       <section className="hero">
-        <img className="hero__image" src="/manus-storage/prexion-hero_5d66a3d9.png" alt="Advanced PreXion dental imaging system in a precision studio" />
+        <img className="hero__image hero__image--excelsior" src="/manus-storage/excelsior-max_734453dc.png" alt="PreXion Excelsior MAX dental imaging system" />
         <div className="hero__veil" />
         <div className="hero__grid" aria-hidden="true" />
         <div className="hero__content">

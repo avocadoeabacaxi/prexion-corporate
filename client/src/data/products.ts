@@ -5,7 +5,7 @@
 export type Product = {
   slug: string;
   name: string;
-  family: "Elite" | "Excelsior" | "Evolve";
+  family: "Excelsior" | "Evolve";
   category: "CBCT" | "2D" | "Intraoral";
   modality: string;
   eyebrow: string;
@@ -20,45 +20,6 @@ export type Product = {
 };
 
 export const products: Product[] = [
-  {
-    slug: "elite",
-    name: "PreXion Elite",
-    family: "Elite",
-    category: "CBCT",
-    modality: "CBCT · PAN · CEPH",
-    eyebrow: "The new flagship",
-    summary:
-      "A premium 3-in-1 imaging platform built around Dual Focal Spot technology, Ultra HD sensing and continuous high-flow performance.",
-    image: "/manus-storage/elite-product_d4a053f9.webp",
-    heroMetric: "0.17 mm",
-    heroMetricLabel: "virtual focal spot for CBCT",
-    metrics: [
-      { value: "48 μm", label: "Ultra HD voxel" },
-      { value: "16 × 21", label: "maximum FOV" },
-      { value: "10 years", label: "warranty" },
-      { value: "300+", label: "exams per day" },
-    ],
-    highlights: [
-      {
-        title: "Dual Focal Spot",
-        copy: "Dedicated focal performance for CBCT and for PAN/CEPH, optimizing each modality for its diagnostic purpose.",
-      },
-      {
-        title: "Ultra HD sensor",
-        copy: "High-resolution acquisition designed to reveal delicate anatomy, fracture lines and critical treatment regions.",
-      },
-      {
-        title: "PMC + MAR",
-        copy: "Motion correction and multi-level metal artifact reduction preserve diagnostic detail while reducing repeat exposure.",
-      },
-      {
-        title: "Advanced Position System",
-        copy: "A fully adjustable carbon-fiber support system improves patient stability and acquisition consistency.",
-      },
-    ],
-    applications: ["Endodontics", "Implantology", "Orthodontics", "Maxillofacial Surgery"],
-    fovs: ["5 × 5", "9 × 6", "9 × 9", "16 × 9", "16 × 15", "16 × 21"],
-  },
   {
     slug: "excelsior-mid",
     name: "Excelsior MID",

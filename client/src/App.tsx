@@ -4,7 +4,8 @@
 
 import { Toaster } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
-import { Redirect, Route, Switch } from "wouter";
+import { useEffect } from "react";
+import { Redirect, Route, Switch, useLocation } from "wouter";
 import ErrorBoundary from "./components/ErrorBoundary";
 import SiteFooter from "./components/SiteFooter";
 import SiteHeader from "./components/SiteHeader";
@@ -22,13 +23,25 @@ import RoiCalculator from "./pages/RoiCalculator";
 import SiteMapPage from "./pages/SiteMapPage";
 import Support from "./pages/Support";
 
+function ScrollToTop() {
+  const [location] = useLocation();
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [location]);
+
+  return null;
+}
+
 function Router() {
   return (
     <>
+      <ScrollToTop />
       <SiteHeader />
       <Switch>
         <Route path="/" component={Home} />
         <Route path="/product" component={Products} />
+        <Route path="/product/elite">{() => <Redirect to="/product" />}</Route>
         <Route path="/product/:slug" component={ProductDetail} />
         <Route path="/products">{() => <Redirect to="/product" />}</Route>
         <Route path="/products/:slug">{(params) => <Redirect to={`/product/${params.slug}`} />}</Route>

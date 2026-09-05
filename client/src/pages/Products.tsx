@@ -20,7 +20,7 @@ export default function Products() {
           <h1>Technology for every<br /><em>diagnostic ambition.</em></h1>
           <p>Explore a portfolio spanning advanced CBCT, panoramic and cephalometric imaging, digital intraoral scanning and efficient radiography.</p>
         </div>
-        <div className="inner-hero__metric"><span>09</span><p>systems across<br />three product families</p></div>
+        <div className="inner-hero__metric"><span>{String(products.length).padStart(2, "0")}</span><p>systems across<br />two product families</p></div>
       </section>
 
       <section className="catalog section-light">

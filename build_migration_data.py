@@ -20,6 +20,8 @@ def localize(url):
 
 def clean(value):
     value = html.unescape(str(value or ""))
+    value = re.sub(r"[^.!?]*(?:PreXion\s*3D\s*Elite|PreXion\s+Elite)[^.!?]*(?:[.!?]|$)", " ", value, flags=re.I)
+    value = re.sub(r"\bElite\b", "", value, flags=re.I)
     value = re.sub(r"\s+", " ", value).strip()
     return value
 
@@ -127,12 +129,12 @@ for url in sorted(audit_by_url):
         soup = BeautifulSoup(rendered, "html.parser")
         for node in soup.find_all(["a", "iframe"]):
             href = (node.get("href") or node.get("src") or "").strip()
-            if href.startswith("http") or href.startswith("mailto:") or href.startswith("tel:"):
+            if (href.startswith("http") or href.startswith("mailto:") or href.startswith("tel:")) and "elite" not in href.lower():
                 label = clean(node.get_text(" ", strip=True)) or clean(node.get("title", "")) or ("Embedded video" if node.name == "iframe" else href)
                 links.append({"label": label, "url": href})
         for node in soup.find_all("img", src=True):
             src = node.get("src", "").strip()
-            if src.startswith("http") and "logo" not in src.lower():
+            if src.startswith("http") and "logo" not in src.lower() and "elite" not in src.lower():
                 images.append({"alt": clean(node.get("alt", "")) or title, "url": localize(src)})
 
     downloads = sorted(set(localize(url) for url in markdown_lines(audit_item.get("downloads", "")) + [item["url"] for item in links if re.search(r"\.(pdf|zip|docx?|xlsx?|pptx?)(?:$|\?)", item["url"], re.I)]))
