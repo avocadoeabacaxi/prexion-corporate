@@ -26,6 +26,17 @@
 
 ## Validação
 
+- [x] Exibir playlist rolável ao lado do player no desktop.
+- [x] Adicionar controles Anterior, Próximo e Ver aulas junto ao player.
+- [x] Abrir a lista de aulas em painel móvel sem perder a posição do vídeo.
+- [x] Manter a aula atual destacada e trocar vídeos sem navegar pela página longa.
+- [x] Validar a navegação contínua em desktop e celular.
+
+### Resultado da central de reprodução
+
+- O controle Próximo atualizou o player e o destaque da playlist mantendo a posição da página.
+- A seleção direta da aula 10 atualizou título, player, progresso 10/25 e estado ativo sem rolar até a biblioteca inferior.
+- No celular, Anterior, Ver aulas e Próximo ficam junto ao módulo; a lista completa abre em painel sobreposto.
 - [x] Ao clicar em qualquer aula, levar o visitante imediatamente ao player.
 - [x] Carregar e iniciar o vídeo escolhido sem exigir um segundo clique confuso.
 - [x] Testar a troca consecutiva entre diferentes vídeos no desktop e no celular.
