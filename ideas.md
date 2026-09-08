@@ -77,3 +77,6 @@ O wordmark oficial PreXion será preservado quando houver ativo adequado. Como s
 - Cada página principal deverá conter pelo menos um motivo visível de instrumentação diagnóstica, como linha de varredura, retícula, marca de calibração, índice marginal, diagrama de FOV ou anotação técnica.
 - Páginas de arquivo nunca exibirão notas internas, fragmentos brutos ou nomes técnicos de armazenamento como conteúdo principal; o material legado será apresentado em capítulos editoriais e índices técnicos curados.
 - Cada herói terá um motivo próprio — retícula clínica, matriz de arquivo, escala indexada ou traço de ROI — além da ênfase tipográfica azul.
+- Bibliotecas longas de educação e suporte serão divididas em capítulos numerados, com escalas calibradas e progressão visível, nunca em uma grade genérica contínua.
+- Players incorporados começarão como módulos clínicos controlados pela identidade PreXion; a interface visual de terceiros só aparecerá após a ação explícita de reprodução.
+- A ênfase azul em itálico ficará reservada a uma única afirmação decisiva por página; seções seguintes usarão escala, números e índices técnicos para criar hierarquia.

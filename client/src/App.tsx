@@ -22,6 +22,7 @@ import Resources from "./pages/Resources";
 import RoiCalculator from "./pages/RoiCalculator";
 import SiteMapPage from "./pages/SiteMapPage";
 import Support from "./pages/Support";
+import Training from "./pages/Training";
 
 function ScrollToTop() {
   const [location] = useLocation();
@@ -49,7 +50,7 @@ function Router() {
         <Route path="/applications-by-specialty" component={Applications} />
         <Route path="/support" component={Support} />
         <Route path="/support/remote">{() => <LegacyPage sourcePath="/remote-support" />}</Route>
-        <Route path="/support/training">{() => <LegacyPage sourcePath="/training-videos" />}</Route>
+        <Route path="/support/training" component={Training} />
         <Route path="/resources" component={Resources} />
         <Route path="/news">{() => <News />}</Route>
         <Route path="/events">{() => <News eventsOnly />}</Route>

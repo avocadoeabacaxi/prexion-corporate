@@ -1,0 +1,205 @@
+{
+  "unique_videos": 25,
+  "videos": [
+    {
+      "id": "ZVuf8g6McZ0",
+      "title": "PreXion Online Presentation: Dr. Tony Tomaro, \"The GP's Guide to Cone Beam Everyday Use\"",
+      "author": "PreXion CBCT",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/ZVuf8g6McZ0",
+      "watchUrl": "https://www.youtube.com/watch?v=ZVuf8g6McZ0",
+      "thumbnail": "https://i.ytimg.com/vi/ZVuf8g6McZ0/hqdefault.jpg"
+    },
+    {
+      "id": "D0k_uQR81YU",
+      "title": "PreXion Online Presentation: Dr. Lou Graham, \"Integrating CBCT into Your Practice\"",
+      "author": "PreXion CBCT",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/D0k_uQR81YU",
+      "watchUrl": "https://www.youtube.com/watch?v=D0k_uQR81YU",
+      "thumbnail": "https://i.ytimg.com/vi/D0k_uQR81YU/hqdefault.jpg"
+    },
+    {
+      "id": "CswZyHJFCOQ",
+      "title": "PreXion Online Presentation: Dr. Lou Graham, \"Emergency Exams During COVID-19. The New Norm\"",
+      "author": "PreXion CBCT",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/CswZyHJFCOQ",
+      "watchUrl": "https://www.youtube.com/watch?v=CswZyHJFCOQ",
+      "thumbnail": "https://i.ytimg.com/vi/CswZyHJFCOQ/hqdefault.jpg"
+    },
+    {
+      "id": "I70n4B2QFsk",
+      "title": "PreXion 3D Dental CBCT Scanner (How to Capture a 15x13 FOV Image)",
+      "author": "PreXion CBCT",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/I70n4B2QFsk",
+      "watchUrl": "https://www.youtube.com/watch?v=I70n4B2QFsk",
+      "thumbnail": "https://i.ytimg.com/vi/I70n4B2QFsk/hqdefault.jpg"
+    },
+    {
+      "id": "XXkUMPKnpys",
+      "title": "PreXion 3D Dental CBCT Scanner (How to Capture a Full Arch Scan)",
+      "author": "PreXion CBCT",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/XXkUMPKnpys",
+      "watchUrl": "https://www.youtube.com/watch?v=XXkUMPKnpys",
+      "thumbnail": "https://i.ytimg.com/vi/XXkUMPKnpys/hqdefault.jpg"
+    },
+    {
+      "id": "NQXg2rvHQLk",
+      "title": "PreXion 3D Dental CBCT Scanner (How to Capture a Panorex Image)",
+      "author": "PreXion CBCT",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/NQXg2rvHQLk",
+      "watchUrl": "https://www.youtube.com/watch?v=NQXg2rvHQLk",
+      "thumbnail": "https://i.ytimg.com/vi/NQXg2rvHQLk/hqdefault.jpg"
+    },
+    {
+      "id": "JssVRkZLe6g",
+      "title": "3D Settings and Templates",
+      "author": "PreXion CBCT",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/JssVRkZLe6g",
+      "watchUrl": "https://www.youtube.com/watch?v=JssVRkZLe6g",
+      "thumbnail": "https://i.ytimg.com/vi/JssVRkZLe6g/hqdefault.jpg"
+    },
+    {
+      "id": "Nwaz2T2j2II",
+      "title": "Alt Key and Pinpoint in 3 Planar Views",
+      "author": "PreXion CBCT",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/Nwaz2T2j2II",
+      "watchUrl": "https://www.youtube.com/watch?v=Nwaz2T2j2II",
+      "thumbnail": "https://i.ytimg.com/vi/Nwaz2T2j2II/hqdefault.jpg"
+    },
+    {
+      "id": "N_V2Np9kYU4",
+      "title": "Annotate Text and Add Arrow Labels",
+      "author": "PreXion CBCT",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/N_V2Np9kYU4",
+      "watchUrl": "https://www.youtube.com/watch?v=N_V2Np9kYU4",
+      "thumbnail": "https://i.ytimg.com/vi/N_V2Np9kYU4/hqdefault.jpg"
+    },
+    {
+      "id": "xJDO3jND690",
+      "title": "Capture Images to Print, Save, or Email",
+      "author": "PreXion CBCT",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/xJDO3jND690",
+      "watchUrl": "https://www.youtube.com/watch?v=xJDO3jND690",
+      "thumbnail": "https://i.ytimg.com/vi/xJDO3jND690/hqdefault.jpg"
+    },
+    {
+      "id": "Js2Mc9aTgNA",
+      "title": "CPR Functions and Applications",
+      "author": "PreXion CBCT",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/Js2Mc9aTgNA",
+      "watchUrl": "https://www.youtube.com/watch?v=Js2Mc9aTgNA",
+      "thumbnail": "https://i.ytimg.com/vi/Js2Mc9aTgNA/hqdefault.jpg"
+    },
+    {
+      "id": "P4j0ZzzhGbg",
+      "title": "Scenes Create, Save, and Recall",
+      "author": "PreXion CBCT",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/P4j0ZzzhGbg",
+      "watchUrl": "https://www.youtube.com/watch?v=P4j0ZzzhGbg",
+      "thumbnail": "https://i.ytimg.com/vi/P4j0ZzzhGbg/hqdefault.jpg"
+    },
+    {
+      "id": "VU9OuIEsEvg",
+      "title": "Crop 3D Slab and MIP",
+      "author": "PreXion CBCT",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/VU9OuIEsEvg",
+      "watchUrl": "https://www.youtube.com/watch?v=VU9OuIEsEvg",
+      "thumbnail": "https://i.ytimg.com/vi/VU9OuIEsEvg/hqdefault.jpg"
+    },
+    {
+      "id": "sfb12KPAgk8",
+      "title": "Fusion Stitch",
+      "author": "PreXion CBCT",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/sfb12KPAgk8",
+      "watchUrl": "https://www.youtube.com/watch?v=sfb12KPAgk8",
+      "thumbnail": "https://i.ytimg.com/vi/sfb12KPAgk8/hqdefault.jpg"
+    },
+    {
+      "id": "PVjz6WDY0Y8",
+      "title": "Implant Editor Library",
+      "author": "PreXion CBCT",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/PVjz6WDY0Y8",
+      "watchUrl": "https://www.youtube.com/watch?v=PVjz6WDY0Y8",
+      "thumbnail": "https://i.ytimg.com/vi/PVjz6WDY0Y8/hqdefault.jpg"
+    },
+    {
+      "id": "O3SK2L3kqNM",
+      "title": "Implant Planning Functions",
+      "author": "PreXion CBCT",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/O3SK2L3kqNM",
+      "watchUrl": "https://www.youtube.com/watch?v=O3SK2L3kqNM",
+      "thumbnail": "https://i.ytimg.com/vi/O3SK2L3kqNM/hqdefault.jpg"
+    },
+    {
+      "id": "gYkRSYe7Ga0",
+      "title": "Mandibular Canal Marking",
+      "author": "PreXion CBCT",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/gYkRSYe7Ga0",
+      "watchUrl": "https://www.youtube.com/watch?v=gYkRSYe7Ga0",
+      "thumbnail": "https://i.ytimg.com/vi/gYkRSYe7Ga0/hqdefault.jpg"
+    },
+    {
+      "id": "uAlnYViYUGM",
+      "title": "Measurement Functions",
+      "author": "PreXion CBCT",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/uAlnYViYUGM",
+      "watchUrl": "https://www.youtube.com/watch?v=uAlnYViYUGM",
+      "thumbnail": "https://i.ytimg.com/vi/uAlnYViYUGM/hqdefault.jpg"
+    },
+    {
+      "id": "N0pR0X613JE",
+      "title": "Mouse Functions Adjusting Images",
+      "author": "PreXion CBCT",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/N0pR0X613JE",
+      "watchUrl": "https://www.youtube.com/watch?v=N0pR0X613JE",
+      "thumbnail": "https://i.ytimg.com/vi/N0pR0X613JE/hqdefault.jpg"
+    },
+    {
+      "id": "ekmUCulM9SU",
+      "title": "Multi Data Loading Side by Side Patient Scans",
+      "author": "PreXion CBCT",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/ekmUCulM9SU",
+      "watchUrl": "https://www.youtube.com/watch?v=ekmUCulM9SU",
+      "thumbnail": "https://i.ytimg.com/vi/ekmUCulM9SU/hqdefault.jpg"
+    },
+    {
+      "id": "TeZuuX7IOdg",
+      "title": "Multiplanar CT Slices and Crossbars",
+      "author": "PreXion CBCT",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/TeZuuX7IOdg",
+      "watchUrl": "https://www.youtube.com/watch?v=TeZuuX7IOdg",
+      "thumbnail": "https://i.ytimg.com/vi/TeZuuX7IOdg/hqdefault.jpg"
+    },
+    {
+      "id": "Zgp2i3pXRJA",
+      "title": "Panoramic Image Functions",
+      "author": "PreXion CBCT",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/Zgp2i3pXRJA",
+      "watchUrl": "https://www.youtube.com/watch?v=Zgp2i3pXRJA",
+      "thumbnail": "https://i.ytimg.com/vi/Zgp2i3pXRJA/hqdefault.jpg"
+    },
+    {
+      "id": "iBmWqZMStmc",
+      "title": "Patient List Page Loading",
+      "author": "PreXion CBCT",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/iBmWqZMStmc",
+      "watchUrl": "https://www.youtube.com/watch?v=iBmWqZMStmc",
+      "thumbnail": "https://i.ytimg.com/vi/iBmWqZMStmc/hqdefault.jpg"
+    },
+    {
+      "id": "TAsriZk35CI",
+      "title": "Pixel Density Tool Color Template",
+      "author": "PreXion CBCT",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/TAsriZk35CI",
+      "watchUrl": "https://www.youtube.com/watch?v=TAsriZk35CI",
+      "thumbnail": "https://i.ytimg.com/vi/TAsriZk35CI/hqdefault.jpg"
+    },
+    {
+      "id": "FTOyHfrhwo0",
+      "title": "Raysum For Smoothing Coarse and Grainy Images",
+      "author": "PreXion CBCT",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/FTOyHfrhwo0",
+      "watchUrl": "https://www.youtube.com/watch?v=FTOyHfrhwo0",
+      "thumbnail": "https://i.ytimg.com/vi/FTOyHfrhwo0/hqdefault.jpg"
+    }
+  ]
+}

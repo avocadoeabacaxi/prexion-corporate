@@ -26,6 +26,10 @@
 
 ## Validação
 
+- [x] Auditar a página `/support/training` atual e a página de treinamento do site antigo.
+- [x] Recuperar todos os links oficiais de vídeo e identificar o assunto de cada aula.
+- [x] Criar uma videoteca com player incorporado, categorias, títulos e descrições explicativas.
+- [x] Validar reprodução e seleção de vídeos no desktop e no celular.
 - [x] Fazer toda mudança de rota interna abrir no topo da nova página.
 - [x] Tornar imagem, título, descrição e seta de cada produto parte de um único card clicável.
 - [x] Ocultar o PreXion Elite do catálogo, destaques, contagens, links, índice e rotas públicas.
