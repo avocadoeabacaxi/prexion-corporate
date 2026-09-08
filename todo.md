@@ -26,6 +26,14 @@
 
 ## Validação
 
+- [x] Ao clicar em qualquer aula, levar o visitante imediatamente ao player.
+- [x] Carregar e iniciar o vídeo escolhido sem exigir um segundo clique confuso.
+- [x] Testar a troca consecutiva entre diferentes vídeos no desktop e no celular.
+
+### Resultado da correção da videoteca
+
+- A seleção da aula 16 atualizou o título, a categoria, a descrição, os pontos de aprendizagem e o URL do YouTube no player.
+- Após o clique, a página retornou automaticamente ao módulo de reprodução e o iframe do vídeo escolhido ficou visível.
 - [x] Auditar a página `/support/training` atual e a página de treinamento do site antigo.
 - [x] Recuperar todos os links oficiais de vídeo e identificar o assunto de cada aula.
 - [x] Criar uma videoteca com player incorporado, categorias, títulos e descrições explicativas.

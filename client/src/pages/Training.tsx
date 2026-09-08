@@ -24,10 +24,10 @@ export default function Training() {
 
   const selectVideo = (video: TrainingVideo) => {
     setSelected(video);
-    setPlayingId(null);
-    if (window.innerWidth < 900) {
+    setPlayingId(video.id);
+    window.requestAnimationFrame(() => {
       window.requestAnimationFrame(() => playerRef.current?.scrollIntoView({ behavior: "smooth", block: "start" }));
-    }
+    });
   };
 
   const chapterGroups = trainingCategories.slice(1).map((name) => ({
@@ -55,7 +55,7 @@ export default function Training() {
           {playingId === selected.id ? (
             <iframe
               key={selected.id}
-              src={`https://www.youtube-nocookie.com/embed/${selected.id}?autoplay=1&rel=0&modestbranding=1`}
+              src={`https://www.youtube-nocookie.com/embed/${selected.id}?autoplay=1&rel=0&modestbranding=1&playsinline=1`}
               title={selected.title}
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               referrerPolicy="strict-origin-when-cross-origin"
